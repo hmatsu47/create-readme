@@ -1,4 +1,3 @@
-import datetime
 import feedparser
 import json
 import locale
