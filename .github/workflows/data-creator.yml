@@ -5,7 +5,7 @@ env:
   TZ: Asia/Tokyo
 on:
   schedule:
-    - cron:  '00 */1 * * *'
+    - cron:  '00 */3 * * *'
   workflow_dispatch:
 jobs:
   update_data:
