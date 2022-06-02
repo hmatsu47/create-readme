@@ -10,7 +10,7 @@ def main():
     qiita_dict = []
     for item in qiita_entries:
         qiita_dict.append({'link': item['link'], 'title': item['title'], 'published': item['published']})
-    # Zenn 記事のフィードを最大 4 件取得
+    # Zenn 記事のフィードを最大 6 件取得
     zenn = feedparser.parse('https://zenn.dev/hmatsu47/feed')
     zenn_entries=zenn['entries']
     zenn_dict = []
