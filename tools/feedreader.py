@@ -18,7 +18,7 @@ def main():
     for item in zenn_entries:
         zenn_dict.append({'link': item['link'], 'title': item['title'], 'published': item['published']})
         i = i + 1
-        if (i > 3): break
+        if (i > 5): break
     # 連結して JSON 出力
     result = {'qiita': qiita_dict, 'zenn': zenn_dict}
     print(json.dumps(result, ensure_ascii=False, indent=2))
