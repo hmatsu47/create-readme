@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
       - name: Run python script (feedreader.py)
-        run: python3 -B production/tools/feedreader.py > production/data/feed.json
+        run: python3 -B production/tools/feedreader.py > production/docs/feed.json
 
       - name: Create Pull Request main
         uses: peter-evans/create-pull-request@v3

@@ -19,8 +19,26 @@ def main():
         zenn_dict.append({'link': item['link'], 'title': item['title'], 'published': item['published']})
         i = i + 1
         if (i > 3): break
+    # Note 記事のフィードを最大 3 件取得
+    note = feedparser.parse('https://note.com/hmatsu47/rss')
+    note_entries=note['entries']
+    note_dict = []
+    i = 0
+    for item in note_entries:
+        note_dict.append({'link': item['link'], 'title': item['title'], 'published': item['published']})
+        i = i + 1
+        if (i > 2): break
+    # はてなブログ記事のフィードを最大 3 件取得
+    hatena = feedparser.parse('https://hmatsu47.hatenablog.com/feed')
+    hatena_entries=hatena['entries']
+    hatena_dict = []
+    i = 0
+    for item in hatena_entries:
+        hatena_dict.append({'link': item['link'], 'title': item['title'], 'published': item['published']})
+        i = i + 1
+        if (i > 2): break
     # 連結して JSON 出力
-    result = {'qiita': qiita_dict, 'zenn': zenn_dict}
+    result = {'qiita': qiita_dict, 'zenn': zenn_dict, 'note': note_dict, 'hatena': hatena_dict}
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
 if __name__ == '__main__':
