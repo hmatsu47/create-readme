@@ -11,6 +11,7 @@ type Props = {
   title: string;
   color: string;
   list: Item[];
+  url: string;
 }
 
 const ListParts = (props: Props) => {
@@ -20,21 +21,38 @@ const ListParts = (props: Props) => {
         spacing={1}
         direction="column"
       >
-        <AppBar
-          position="static"
-          sx={{ backgroundColor: props.color }}
+        < a
+          href={props.url}
+          target={"_blank"}
         >
-          <Typography
-            variant="h6"
-            component="div"
-            sx={{
-              flexGrow: 1,
-              padding: "0 0 0 10px"
-            }}
+          <AppBar
+            position="static"
+            sx={{ backgroundColor: props.color }}
           >
-            {props.title}
-          </Typography>
-        </AppBar>
+            <Stack direction="row">
+              <Typography
+                variant="h6"
+                component="div"
+                sx={{
+                  flexGrow: 1,
+                  padding: "0 0 0 10px"
+                }}
+              >
+                {props.title}
+              </Typography>
+                <Typography
+                  variant="subtitle1"
+                  component="div"
+                  sx={{
+                    color: "white",
+                    paddingRight: "10px"
+                  }}
+                >
+                  more...
+                </Typography>
+            </Stack>
+          </AppBar>
+        </a>
         <Show
           when={props.list.length > 0}
           fallback={<></>}
@@ -52,12 +70,11 @@ const ListParts = (props: Props) => {
                   >
                     <a
                       href={item.link}
-                      target="_blank"
+                      target={"_blank"}
                     >
                       <Typography
                         variant="subtitle1"
                         color="text.secondary"
-                        gutterBottom
                       >
                         {item.title}
                       </Typography>
@@ -65,7 +82,6 @@ const ListParts = (props: Props) => {
                       <Typography
                         variant="subtitle1"
                         color="text.secondary"
-                        gutterBottom
                       >
                         （{new Date(item.published).toLocaleString('ja-JP')}）
                       </Typography>
