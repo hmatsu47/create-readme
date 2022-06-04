@@ -6,6 +6,7 @@ import CardContent from '@suid/material/CardContent';
 import Stack from '@suid/material/Stack';
 import Typography from '@suid/material/Typography';
 import { Item } from './type';
+import { formatDate } from './formatDate';
 
 type Props = {
   title: string;
@@ -40,16 +41,16 @@ const ListParts = (props: Props) => {
               >
                 {props.title}
               </Typography>
-                <Typography
-                  variant="subtitle1"
-                  component="div"
-                  sx={{
-                    color: "white",
-                    paddingRight: "10px"
-                  }}
-                >
-                  more...
-                </Typography>
+              <Typography
+                variant="subtitle1"
+                component="div"
+                sx={{
+                  color: "white",
+                  paddingRight: "10px"
+                }}
+              >
+                more...
+              </Typography>
             </Stack>
           </AppBar>
         </a>
@@ -68,23 +69,41 @@ const ListParts = (props: Props) => {
                     spacing={1}
                     direction="row"
                   >
-                    <a
-                      href={item.link}
-                      target={"_blank"}
+                    <Box
+                      sx={{
+                        width: "88%",
+                        marginLeft: "0",
+                        marginRight: "auto",
+                        textAlign: "left",
+                      }}
+                    >
+                      <a
+                        href={item.link}
+                        target={"_blank"}
+                      >
+                        <Typography
+                          variant="subtitle1"
+                          color="text.secondary"
+                        >
+                          {item.title}
+                        </Typography>
+                      </a>
+                    </Box>
+                    <Box
+                      sx={{
+                        width: "12%",
+                        marginLeft: "auto",
+                        marginRight: "0",
+                        textAlign: "right",
+                      }}
                     >
                       <Typography
                         variant="subtitle1"
                         color="text.secondary"
                       >
-                        {item.title}
+                        {formatDate(new Date(item.published))}
                       </Typography>
-                    </a>
-                      <Typography
-                        variant="subtitle1"
-                        color="text.secondary"
-                      >
-                        （{new Date(item.published).toLocaleString('ja-JP')}）
-                      </Typography>
+                    </Box>
                   </Stack>
                 </CardContent>
               </Card>
