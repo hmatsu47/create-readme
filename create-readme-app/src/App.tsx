@@ -60,21 +60,30 @@ const App: Component = () => {
             component="div"
             sx={{ flexGrow: 1 }}
           >
-            hmatsu47 ({route()==='blog' ? 'Blog Articles' : 'Slides'})
+            hmatsu47 ({route() === 'blog' ? 'Blog Articles' : 'Slides'})
           </Typography>
           <Button
             onClick={(e) => setRoute('blog')}
             color="primary"
-            sx={{ textTransform: 'none' }}
+            sx={{ textTransform: "none" }}
           >
             Blog Articles
           </Button>
           <Button
             onClick={(e) => setRoute('slides')}
             color="primary"
-            sx={{ textTransform: 'none' }}
+            sx={{ textTransform: "none" }}
           >
             Slides
+          </Button>
+          <Button
+            onClick={(e) => window.location.href='https://github.com/hmatsu47'}
+            sx={{
+              color: "#24292f",
+              textTransform: "none"
+            }}
+          >
+            Back to GitHub
           </Button>
         </Stack>
         <Show
