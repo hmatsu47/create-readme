@@ -19,7 +19,7 @@ const Slides = () => {
       }}
       aria-live="polite"
     >
-      <Title route={'slides'}/>
+      <Title />
       <Stack direction="column">
         <Show
           when={feedSd() && feedSd()!.length > 0}

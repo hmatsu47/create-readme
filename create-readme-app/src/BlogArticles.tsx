@@ -24,7 +24,7 @@ const BlogArticles = () => {
       }}
       aria-live="polite"
     >
-      <Title route={'blog'}/>
+      <Title />
       <Stack direction="column">
         <Show
           when={feedQiita() && feedQiita()!.length > 0}
