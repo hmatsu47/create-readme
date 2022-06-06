@@ -56,7 +56,16 @@ const ListParts = (props: Props) => {
         </a>
         <Show
           when={props.list.length > 0}
-          fallback={<></>}
+          fallback={
+            <Box sx={{ margin: "auto" }}>
+              <Typography
+                variant="subtitle1"
+                component="div"
+              >
+                対象の項目がありません。
+              </Typography>
+            </Box>
+          }
         >
           <For
             each={props.list}
