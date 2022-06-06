@@ -1,13 +1,15 @@
-  import { Component } from 'solid-js';
+  import { Component, ErrorBoundary } from 'solid-js';
   import { Router } from 'solid-app-router';
   import List from './List';
 
 const App: Component = () => {
 
   return (
-    <Router>
-      <List />
-    </Router>
+    <ErrorBoundary fallback={(err) => <div>エラーが発生しました：{err.toString()}</div>}>
+      <Router>
+        <List />
+      </Router>
+    </ErrorBoundary>
   );
 };
 
