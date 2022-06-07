@@ -5,7 +5,7 @@
 const App: Component = () => {
 
   return (
-    <ErrorBoundary fallback={(err) => <div>エラーが発生しました：{err.toString()}</div>}>
+    <ErrorBoundary fallback={(err) => <div>データ読み込み時にエラーが発生しました：{err.toString()}</div>}>
       <Router>
         <List />
       </Router>

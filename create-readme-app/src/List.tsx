@@ -1,35 +1,19 @@
-  import { onMount, Show } from 'solid-js';
-  import { useLocation } from 'solid-app-router';
-  import Box from '@suid/material/Box';
-  import Stack from '@suid/material/Stack';
-  import ListParts from './ListParts';
-  import Title from './Title';
-  import { getApiData } from './apiHandler';
-  import {
-    feedHatena,
-    feedNote,
-    feedQiita,
-    feedSd,
-    feedZenn,
-    route,
-    setFeedHatena,
-    setFeedNote,
-    setFeedQiita,
-    setFeedSd,
-    setFeedZenn,
-    setRoute,
-  } from './signal';
+import { createResource, onMount, Show } from 'solid-js';
+import { useLocation } from 'solid-app-router';
+import Box from '@suid/material/Box';
+import Stack from '@suid/material/Stack';
+import ListParts from './ListParts';
+import Title from './Title';
+import { getApiData } from './apiHandler';
+import { route, setRoute } from './signal';
+import { Feed } from './type';
 
 const List = () => {
   const location = useLocation();
+  const fetchData = async () => await getApiData('./feed.json');
+  const [data] = createResource<Feed | undefined>(fetchData);
 
   onMount (async () => {
-    const feed = await getApiData('./feed.json');
-    setFeedQiita(feed.qiita);
-    setFeedZenn(feed.zenn);
-    setFeedNote(feed.note);
-    setFeedHatena(feed.hatena);
-    setFeedSd(feed.sd);
     const locationRoute: string = location.query?.route;
     if (locationRoute === 'blog' || locationRoute === 'slides') {
       setRoute(locationRoute);
@@ -55,50 +39,50 @@ const List = () => {
           fallback={<></>}
         >
           <Show
-            when={feedQiita() && feedQiita()!.length > 0}
+            when={!data.loading && data()!.qiita! && data()!.qiita!.length > 0}
             fallback={<></>}
           >
             <Box sx={{ paddingTop: "10px" }}></Box>
             <ListParts
               title={"Qiita"}
               color={"#55c500"}
-              list={feedQiita()!}
+              list={data()!.qiita!}
               url={"https://qiita.com/hmatsu47"}
             />
           </Show>
           <Show
-            when={feedZenn() && feedZenn()!.length > 0}
+            when={!data.loading && data()!.zenn! && data()!.zenn!.length > 0}
             fallback={<></>}
           >
             <Box sx={{ paddingTop: "20px" }}></Box>
             <ListParts
               title={"Zenn (Articles & Books)"}
               color={"#3ea8ff"}
-              list={feedZenn()!}
+              list={data()!.zenn!}
               url={"https://zenn.dev/hmatsu47"}
             />
           </Show>
           <Show
-            when={feedNote() && feedNote()!.length > 0}
+            when={!data.loading && data()!.note! && data()!.note!.length > 0}
             fallback={<></>}
           >
             <Box sx={{ paddingTop: "20px" }}></Box>
             <ListParts
               title={"Note"}
               color={"#2cb696"}
-              list={feedNote()!}
+              list={data()!.note!}
               url={"https://note.com/hmatsu47"}
             />
           </Show>
           <Show
-            when={feedHatena() && feedHatena()!.length > 0}
+            when={!data.loading && data()!.hatena! && data()!.hatena!.length > 0}
             fallback={<></>}
           >
             <Box sx={{ paddingTop: "20px" }}></Box>
             <ListParts
               title={"Hatena Blog"}
               color={"#50b5b5"}
-              list={feedHatena()!}
+              list={data()!.hatena!}
               url={"https://hmatsu47.hatenablog.com/"}
             />
           </Show>
@@ -108,14 +92,14 @@ const List = () => {
           fallback={<></>}
         >
           <Show
-            when={feedSd() && feedSd()!.length > 0}
+            when={!data.loading && data()!.sd! && data()!.sd!.length > 0}
             fallback={<></>}
           >
             <Box sx={{ paddingTop: "10px" }}></Box>
             <ListParts
               title={"Speaker Deck"}
               color={"#009287"}
-              list={feedSd()!}
+              list={data()!.sd!}
               url={"https://speakerdeck.com/hmatsu47"}
             />
           </Show>
