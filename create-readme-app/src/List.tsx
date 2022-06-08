@@ -45,6 +45,7 @@ const List = () => {
             <Box sx={{ paddingTop: "10px" }}></Box>
             <ListParts
               title={"Qiita"}
+              id={"qiita"}
               color={"#55c500"}
               list={data()!.qiita!}
               url={"https://qiita.com/hmatsu47"}
@@ -57,6 +58,7 @@ const List = () => {
             <Box sx={{ paddingTop: "20px" }}></Box>
             <ListParts
               title={"Zenn (Articles & Books)"}
+              id={"zenn"}
               color={"#3ea8ff"}
               list={data()!.zenn!}
               url={"https://zenn.dev/hmatsu47"}
@@ -69,6 +71,7 @@ const List = () => {
             <Box sx={{ paddingTop: "20px" }}></Box>
             <ListParts
               title={"Note"}
+              id={"note"}
               color={"#2cb696"}
               list={data()!.note!}
               url={"https://note.com/hmatsu47"}
@@ -81,6 +84,7 @@ const List = () => {
             <Box sx={{ paddingTop: "20px" }}></Box>
             <ListParts
               title={"Hatena Blog"}
+              id={"hatena"}
               color={"#50b5b5"}
               list={data()!.hatena!}
               url={"https://hmatsu47.hatenablog.com/"}
@@ -98,6 +102,7 @@ const List = () => {
             <Box sx={{ paddingTop: "10px" }}></Box>
             <ListParts
               title={"Speaker Deck"}
+              id={"sd"}
               color={"#009287"}
               list={data()!.sd!}
               url={"https://speakerdeck.com/hmatsu47"}

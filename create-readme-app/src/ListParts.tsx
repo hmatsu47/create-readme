@@ -10,6 +10,7 @@ import { formatDate } from './formatDate';
 
 type Props = {
   title: string;
+  id: string;
   color: string;
   list: Item[];
   url: string;
@@ -21,6 +22,7 @@ const ListParts = (props: Props) => {
       <Stack
         spacing={1}
         direction="column"
+        id={props.id}
       >
         < a
           href={props.url}
