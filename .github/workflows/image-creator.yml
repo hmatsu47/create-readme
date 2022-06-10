@@ -22,6 +22,8 @@ jobs:
           node-version: '14'
           cache: npm
       
+      - name: Install yarn
+        run: yarn install
       - name: Install dependencies
         run: yarn install puppeteer
       - name: Run js script (app.js)
