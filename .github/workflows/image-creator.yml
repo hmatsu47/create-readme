@@ -1,14 +1,14 @@
-# This is a workflow to create json from blog & slide data and deploy with Actions
+# This is a workflow to create image data from html and deploy with Actions
 
-name: feed-to-json and deploy
+name: html-to-image and deploy
 env:
   TZ: Asia/Tokyo
 on:
   schedule:
-    - cron:  '00 */3 * * *'
+    - cron:  '05 */3 * * *'
   workflow_dispatch:
 jobs:
-  update_data:
+  create_data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,23 +16,26 @@ jobs:
           ref: main
           path: production
 
-      - name: Setup python
-        uses: actions/setup-python@v2
+      - name: Setup nodejs
+        uses: actions/setup-node@v2
         with:
-          python-version: '3.9'
+          node-version: '14'
+          cache: npm
       
       - name: Install dependencies
-        run: pip install feedparser
-      - name: Run python script (feedreader.py)
-        run: python3 -B production/tools/feedreader.py > production/docs/feed.json
+        run: yarn install puppeteer
+      - name: Run js script (app.js)
+        run: node puppeteer-app/app.js
+        with:
+          path: production
 
       - name: Create Pull Request main
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: production
-          commit-message: BOT; UPDATE DATA
-          title: BOT; UPDATE DATA to main
+          commit-message: BOT; UPDATE IMAGE
+          title: BOT; UPDATE IMAGE to main
           base: main
           branch: data-bot/main
           labels: auto_merge

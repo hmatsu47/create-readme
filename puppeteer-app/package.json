@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-script",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  },
+  "type": "module"
+}
