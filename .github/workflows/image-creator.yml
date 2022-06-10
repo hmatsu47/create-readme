@@ -12,16 +12,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          base: main
+          path: production/puppeteer-app
       - name: Setup nodejs
         uses: actions/setup-node@v3
         with:
           node-version: '14'
           cache: npm
 
-      - name: Install yarn
-        run: npm install yarn
       - name: Install dependencies
-        run: yarn install puppeteer
+        run: yarn install
       - name: Run js script (app.js)
         run: node production/puppeteer-app/app.js
 
