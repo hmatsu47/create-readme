@@ -14,8 +14,8 @@ import puppeteer from 'puppeteer';
   const page = await browser.newPage();
 
   await page.goto(url_b, { waitUntil: 'load' });
-  await page.screenshot({ path: 'docs/blog.png' });
+  await page.screenshot({ path: 'production/docs/blog.png' });
   await page.goto(url_s, { waitUntil: 'load' });
-  await page.screenshot({ path: 'docs/slides.png' });
+  await page.screenshot({ path: 'production/docs/slides.png' });
   await browser.close();
 })();

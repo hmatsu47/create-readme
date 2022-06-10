@@ -25,9 +25,7 @@ jobs:
       - name: Install dependencies
         run: yarn install puppeteer
       - name: Run js script (app.js)
-        run: node puppeteer-app/app.js
-        with:
-          path: production
+        run: node production/puppeteer-app/app.js
 
       - name: Create Pull Request main
         uses: peter-evans/create-pull-request@v3
