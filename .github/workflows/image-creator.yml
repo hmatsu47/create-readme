@@ -14,7 +14,9 @@ jobs:
       - uses: actions/checkout@v3
         with:
           ref: main
-          path: production/puppeteer-app
+          path: production
+      - run: cp production/puppeteer-app/package.json production/package.json
+        
       - name: Setup nodejs
         uses: actions/setup-node@v3
         with:
@@ -22,7 +24,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: yarn install
+        run: npm install
       - name: Run js script (app.js)
         run: node production/puppeteer-app/app.js
 
