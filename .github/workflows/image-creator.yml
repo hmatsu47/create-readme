@@ -16,7 +16,8 @@ jobs:
           ref: main
           path: production
       - run: cp production/puppeteer-app/package.json production/package.json
-        
+      - run: cp production/puppeteer-app/package-lock.json production/package-lock.json
+
       - name: Setup nodejs
         uses: actions/setup-node@v3
         with:
