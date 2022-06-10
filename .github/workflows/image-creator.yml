@@ -11,19 +11,15 @@ jobs:
   create_data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: main
-          path: production
-
+      - uses: actions/checkout@v3
       - name: Setup nodejs
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: '14'
           cache: npm
-      
+
       - name: Install yarn
-        run: yarn install
+        run: npm install yarn
       - name: Install dependencies
         run: yarn install puppeteer
       - name: Run js script (app.js)
