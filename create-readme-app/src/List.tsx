@@ -14,11 +14,11 @@ const List = () => {
   const [data] = createResource<Feed | undefined>(fetchData);
 
   onMount (async () => {
+    // URL の query で表示するコンテンツを出し分ける場合の処理
     const locationRoute: string = location.query?.route;
     if (locationRoute === 'articles' || locationRoute === 'slides') {
       const locationPath = location.pathname;
       const replacePathName = locationPath.substring(locationPath.indexOf('/'), locationPath.lastIndexOf('/') + 1);
-      console.log(replacePathName);
       window.history.replaceState(null, '', replacePathName);
       setRoute(locationRoute);
     }
