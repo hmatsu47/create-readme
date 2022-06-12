@@ -11,10 +11,9 @@
       const path = sessionStorage.getItem('path');
       console.log(path);
       if (path) {
-        const route = path.substring(path.lastIndexOf('/') + 1);
-        if (route === 'blog' || route === 'slides') {
+        if (path === '/create-readme/BLOG' || path === '/create-readme/slides') {
           sessionStorage.removeItem('path');
-          window.history.replaceState(null, null, `./${route}`);
+          window.history.replaceState(null, null, `/create-readme/${path}`);
         }
       }
     </script>

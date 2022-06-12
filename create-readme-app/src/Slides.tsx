@@ -1,18 +1,17 @@
-import { Resource, Show } from 'solid-js';
+import { createResource, Show } from 'solid-js';
 import Box from '@suid/material/Box';
 import ListParts from './ListParts';
 import { setRoute } from './signal';
 import { Feed } from './type';
+import { getApiData } from './apiHandler';
 
-type Props = {
-  data: Resource<Feed | undefined>;
-}
-
-const Slides = (props: Props) => {
+const Slides = () => {
+  const fetchData = async () => await getApiData('/create-readme/feed.json');
+  const [data] = createResource<Feed | undefined>(fetchData);
   setRoute('slides');
   return (
     <Show
-      when={!props.data.loading && props.data()!.sd! && props.data()!.sd!.length > 0}
+      when={!data.loading && data()!.sd! && data()!.sd!.length > 0}
       fallback={<></>}
       children={
         <>
@@ -21,7 +20,7 @@ const Slides = (props: Props) => {
               title={"Speaker Deck"}
               id={"sd"}
               color={"#009287"}
-              list={props.data()!.sd!}
+              list={data()!.sd!}
               url={"https://speakerdeck.com/hmatsu47"}
             />
         </>

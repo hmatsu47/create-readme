@@ -1,17 +1,13 @@
-import { createResource, onMount } from 'solid-js';
+import { onMount } from 'solid-js';
 import { Route, Routes, useLocation, useNavigate } from 'solid-app-router';
 import Box from '@suid/material/Box';
 import Title from './Title';
-import { getApiData } from './apiHandler';
 import Blog from './Blog';
 import Slides from './Slides';
-import { Feed } from './type';
 
 const List = () => {
   const routerLocation = useLocation();
   const navigate = useNavigate();
-  const fetchData = async () => await getApiData('/create-readme/feed.json');
-  const [data] = createResource<Feed | undefined>(fetchData);
 
   onMount (async () => {
     // query 付きの場合のリダイレクト処理
@@ -37,15 +33,15 @@ const List = () => {
       <Routes>
         <Route
           path="/create-readme/"
-          element={<Blog data={data} />}
+          element={<Blog />}
         />
         <Route
           path="/create-readme/blog"
-          element={<Blog data={data} />}
+          element={<Blog />}
         />
         <Route
           path="/create-readme/slides"
-          element={<Slides data={data} />}
+          element={<Slides />}
         />
       </Routes>
     </Box>
