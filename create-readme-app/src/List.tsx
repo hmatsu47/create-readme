@@ -10,19 +10,14 @@ import { Feed } from './type';
 const List = () => {
   const routerLocation = useLocation();
   const navigate = useNavigate();
-  const fetchData = async () => await getApiData('./feed.json');
+  const fetchData = async () => await getApiData('/create-readme/feed.json');
   const [data] = createResource<Feed | undefined>(fetchData);
 
   onMount (async () => {
     // query 付きの場合のリダイレクト処理
-    const locationPath: string = routerLocation.pathname;
-    console.log(locationPath);
-    if (locationPath !== '/create-readme/') {
-      return;
-    }
     const locationRoute: string = routerLocation.query?.route;
     if (locationRoute === 'blog' || locationRoute === 'slides') {
-      navigate(`./${locationRoute}`, { replace: true });
+      navigate(`/create-readme/${locationRoute}`, { replace: true });
     }
   });
 
