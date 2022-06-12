@@ -13,9 +13,9 @@ import puppeteer from 'puppeteer';
   });
   const page = await browser.newPage();
 
-  await page.goto(url_a, { waitUntil: 'load' });
+  await page.goto(url_a, { networkidle0: 'load' });
   await page.screenshot({ path: 'production/docs/articles.png' });
-  await page.goto(url_s, { waitUntil: 'load' });
+  await page.goto(url_s, { networkidle0: 'load' });
   await page.screenshot({ path: 'production/docs/slides.png' });
   await browser.close();
 })();
