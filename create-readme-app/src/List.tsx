@@ -24,8 +24,6 @@ const List = () => {
     if (locationRoute === 'blog' || locationRoute === 'slides') {
       navigate(`./${locationRoute}`, { replace: true });
     }
-    // ルートへのアクセス→ /blog へ
-    navigate('./blog');
   });
 
   return (
