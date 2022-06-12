@@ -1,9 +1,10 @@
+import { Link } from 'solid-app-router';
 import Avatar from '@suid/material/Avatar';
 import Box from '@suid/material/Box';
 import Button from '@suid/material/Button';
 import Stack from '@suid/material/Stack';
 import Typography from '@suid/material/Typography';
-import { route, setRoute } from './signal';
+import { route } from './signal';
 
 const Title = () => {
   return (
@@ -32,20 +33,22 @@ const Title = () => {
         >
           hmatsu47 ({route() === 'blog' ? 'Blog Articles' : 'Slides'})
         </Typography>
-        <Button
-          onClick={(e) => setRoute('blog')}
-          color="primary"
-          sx={{ textTransform: "none" }}
-        >
-          Blog Articles
-        </Button>
-        <Button
-          onClick={(e) => setRoute('slides')}
-          color="primary"
-          sx={{ textTransform: "none" }}
-        >
-          Slides
-        </Button>
+        <Link href="/blog">
+          <Button
+            color="primary"
+            sx={{ textTransform: "none" }}
+          >
+            Blog Articles
+          </Button>
+        </Link>
+        <Link href="/slides">
+          <Button
+            color="primary"
+            sx={{ textTransform: "none" }}
+          >
+            Slides
+          </Button>
+        </Link>
         <Button
           onClick={(e) => window.location.href='https://github.com/hmatsu47'}
           sx={{
