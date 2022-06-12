@@ -7,6 +7,17 @@
     <link rel="shortcut icon" type="image/ico" href="/create-readme/favicon.0fc2ac3a.ico" />
     <title>hmatsu47</title>
     <script type="module" crossorigin src="/create-readme/index.3426e6cc.js"></script>
+    <script>
+      const path = sessionStorage.getItem('path');
+      console.log(path);
+      if (path) {
+        const route = path.substring(path.lastIndexOf('/') + 1);
+        if (route === 'blog' || route === 'slides') {
+          sessionStorage.removeItem('path');
+          window.history.replaceState(null, null, `./${route}`);
+        }
+      }
+    </script>
     <link rel="stylesheet" href="/create-readme/index.60499551.css">
   </head>
   <body>
