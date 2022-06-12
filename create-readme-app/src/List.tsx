@@ -16,7 +16,7 @@ const List = () => {
   onMount (async () => {
     const locationRoute: string = location.query?.route;
     if (locationRoute === 'articles' || locationRoute === 'slides') {
-      window.history.replaceState(null, '', '/');
+      window.history.replaceState(null, '', './');
       setRoute(locationRoute);
     }
   });
