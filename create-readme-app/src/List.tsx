@@ -15,7 +15,7 @@ const List = () => {
 
   onMount (async () => {
     const locationRoute: string = location.query?.route;
-    if (locationRoute === 'blog' || locationRoute === 'slides') {
+    if (locationRoute === 'articles' || locationRoute === 'slides') {
       setRoute(locationRoute);
     }
   });
@@ -35,7 +35,7 @@ const List = () => {
       <Title />
       <Stack direction="column">
         <Show
-          when={route() === 'blog'}
+          when={route() === 'articles'}
           fallback={<></>}
         >
           <Show

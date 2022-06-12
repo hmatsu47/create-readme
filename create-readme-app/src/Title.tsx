@@ -19,33 +19,26 @@ const Title = () => {
         <Avatar
           src={"https://avatars.githubusercontent.com/u/35142774"}
           sx={{
-            width: 32,
-            height: 32,
+            width: 30,
+            height: 30,
             marginLeft: "10px",
             marginRight: "10px"
           }}
           alt={'hmatsu47'}
         />
         <Typography
-          variant="h5"
+          variant="h6"
           component="div"
           sx={{ flexGrow: 1 }}
         >
-          hmatsu47 ({route() === 'blog' ? 'Blog Articles' : 'Slides'})
+          hmatsu47 ({route() === 'articles' ? 'Articles' : 'Slides'})
         </Typography>
         <Button
-          onClick={(e) => setRoute('blog')}
+          onClick={(e) => setRoute(route() === 'articles' ? 'slides' : 'articles')}
           color="primary"
           sx={{ textTransform: "none" }}
         >
-          Blog Articles
-        </Button>
-        <Button
-          onClick={(e) => setRoute('slides')}
-          color="primary"
-          sx={{ textTransform: "none" }}
-        >
-          Slides
+          {route() === 'articles' ? 'Slides' : 'Articles'}
         </Button>
         <Button
           onClick={(e) => window.location.href='https://github.com/hmatsu47'}
@@ -54,7 +47,7 @@ const Title = () => {
             textTransform: "none"
           }}
         >
-          Back to Repository
+          Back
         </Button>
       </Stack>
     </>
