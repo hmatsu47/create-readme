@@ -1,21 +1,20 @@
-import { Resource, Show } from 'solid-js';
+import { createResource, Show } from 'solid-js';
 import Box from '@suid/material/Box';
 import Stack from '@suid/material/Stack';
 import ListParts from './ListParts';
 import { setRoute } from './signal';
 import { Feed } from './type';
+import { getApiData } from './apiHandler';
 
-type Props = {
-  data: Resource<Feed | undefined>;
-}
-
-const Blog = (props: Props) => {
+const Blog = () => {
+  const fetchData = async () => await getApiData('/create-readme/feed.json');
+  const [data] = createResource<Feed | undefined>(fetchData);
   setRoute('blog');
   return (
     <>
       <Stack direction="column">
         <Show
-          when={!props.data.loading && props.data()!.qiita! && props.data()!.qiita!.length > 0}
+          when={!data.loading && data()!.qiita! && data()!.qiita!.length > 0}
           fallback={<></>}
           children={
             <>
@@ -24,14 +23,14 @@ const Blog = (props: Props) => {
                 title={"Qiita"}
                 id={"qiita"}
                 color={"#55c500"}
-                list={props.data()!.qiita!}
+                list={data()!.qiita!}
                 url={"https://qiita.com/hmatsu47"}
               />
             </>
           }
         />
         <Show
-          when={!props.data.loading && props.data()!.zenn! && props.data()!.zenn!.length > 0}
+          when={!data.loading && data()!.zenn! && data()!.zenn!.length > 0}
           fallback={<></>}
           children={
             <>
@@ -40,14 +39,14 @@ const Blog = (props: Props) => {
                 title={"Zenn (Articles & Books)"}
                 id={"zenn"}
                 color={"#3ea8ff"}
-                list={props.data()!.zenn!}
+                list={data()!.zenn!}
                 url={"https://zenn.dev/hmatsu47"}
               />
             </>
           }
         />
         <Show
-          when={!props.data.loading && props.data()!.note! && props.data()!.note!.length > 0}
+          when={!data.loading && data()!.note! && data()!.note!.length > 0}
           fallback={<></>}
           children={
             <>
@@ -56,14 +55,14 @@ const Blog = (props: Props) => {
                 title={"Note"}
                 id={"note"}
                 color={"#2cb696"}
-                list={props.data()!.note!}
+                list={data()!.note!}
                 url={"https://note.com/hmatsu47"}
               />
             </>
           }
         />
         <Show
-          when={!props.data.loading && props.data()!.hatena! && props.data()!.hatena!.length > 0}
+          when={!data.loading && data()!.hatena! && data()!.hatena!.length > 0}
           fallback={<></>}
           children={
             <>
@@ -72,7 +71,7 @@ const Blog = (props: Props) => {
                 title={"Hatena Blog"}
                 id={"hatena"}
                 color={"#50b5b5"}
-                list={props.data()!.hatena!}
+                list={data()!.hatena!}
                 url={"https://hmatsu47.hatenablog.com/"}
               />
             </>
