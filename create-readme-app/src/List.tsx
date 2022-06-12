@@ -17,7 +17,7 @@ const List = () => {
     // query 付きの場合のリダイレクト処理
     const locationPath: string = routerLocation.pathname;
     console.log(locationPath);
-    if (locationPath !== '/') {
+    if (locationPath !== '/create-readme/') {
       return;
     }
     const locationRoute: string = routerLocation.query?.route;
@@ -41,15 +41,15 @@ const List = () => {
       <Title />
       <Routes>
         <Route
-          path="/"
+          path="/create-readme/"
           element={<Blog data={data} />}
         />
         <Route
-          path="/blog"
+          path="/create-readme/blog"
           element={<Blog data={data} />}
         />
         <Route
-          path="/slides"
+          path="/create-readme/slides"
           element={<Slides data={data} />}
         />
       </Routes>
