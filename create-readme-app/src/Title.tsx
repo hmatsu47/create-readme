@@ -33,7 +33,7 @@ const Title = () => {
         >
           hmatsu47 ({route() === 'blog' ? 'Blog Articles' : 'Slides'})
         </Typography>
-        <Link href="/blog">
+        <Link href="/create-readme/blog">
           <Button
             color="primary"
             sx={{ textTransform: "none" }}
@@ -41,7 +41,7 @@ const Title = () => {
             Blog Articles
           </Button>
         </Link>
-        <Link href="/slides">
+        <Link href="/create-readme/slides">
           <Button
             color="primary"
             sx={{ textTransform: "none" }}
