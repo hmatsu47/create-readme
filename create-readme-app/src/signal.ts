@@ -1,3 +1,3 @@
-import { createSignal } from "solid-js";
+import { createSignal } from 'solid-js';
 
 export const [route, setRoute] = createSignal<string>('articles');
