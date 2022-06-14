@@ -2,9 +2,13 @@
   "name": "puppeteer-script",
   "version": "0.0.0",
   "description": "",
+  "scripts": {
+    "format": "prettier --write '*.{js,ts,json}'"
+  },
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^14.3.0"
+    "puppeteer": "^14.4.0",
+    "prettier": "^2.7.0"
   },
   "type": "module"
 }
