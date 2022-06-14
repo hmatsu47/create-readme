@@ -6,7 +6,7 @@ import Stack from '@suid/material/Stack';
 import Typography from '@suid/material/Typography';
 import { route, setRoute } from './signal';
 
-const Title = () => {
+export const Title = () => {
   return (
     <>
       <Box sx={{
@@ -53,5 +53,3 @@ const Title = () => {
     </>
   );
 }
-
-export default Title;

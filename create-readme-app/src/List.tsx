@@ -2,13 +2,13 @@ import { createResource, onMount, Show } from 'solid-js';
 import { useLocation } from 'solid-app-router';
 import Box from '@suid/material/Box';
 import Stack from '@suid/material/Stack';
-import ListParts from './ListParts';
-import Title from './Title';
+import { ListParts } from './ListParts';
+import { Title } from './Title';
 import { getApiData } from './apiHandler';
 import { route, setRoute } from './signal';
 import { Feed } from './type';
 
-const List = () => {
+export const List = () => {
   const location = useLocation();
   const fetchData = async () => await getApiData('./feed.json');
   const [data] = createResource<Feed | undefined>(fetchData);
@@ -117,5 +117,3 @@ const List = () => {
     </Box>
   );
 };
-
-export default List;

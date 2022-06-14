@@ -16,7 +16,7 @@ type Props = {
   url: string;
 }
 
-const ListParts = (props: Props) => {
+export const ListParts = (props: Props) => {
   return (
     <Box>
       <Stack
@@ -125,5 +125,3 @@ const ListParts = (props: Props) => {
     </Box>
   );
 }
-
-export default ListParts;
