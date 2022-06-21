@@ -12,11 +12,12 @@ testListParts.after.each(cleanup);
 testListParts('<ListParts />', () => {
   const snapFileName = `${snapFolder}ListParts.snap.txt`;
   let compareHtml: string = '';
+  let isSnapStored = true;
   try {
     compareHtml = fs.readFileSync(snapFileName, 'utf-8');
   } catch (e) {
-    console.log(e);
-    stop;
+    console.log('スナップショットファイルがないので保存します。');
+    isSnapStored = false;
   }
 
   const { container } = render(() => (
@@ -44,15 +45,17 @@ testListParts('<ListParts />', () => {
       url={'https://qiita.com/hmatsu47'}
     />
   ));
-  // スナップショットファイルと HTML を比較
+
   const actualHtml = container.innerHTML.replace(/css-\w{6}/g, 'css-xxxxxx').replace(/\r/g, ' ');
-  assert.snapshot(actualHtml, compareHtml);
-  // 通常はスナップショットファイルを上書きしない
-  // try {
-  //   fs.writeFileSync(snapFileName, actualHtml);
-  // } catch (e) {
-  //   console.log(e);
-  // }
+  if (isSnapStored) {
+    assert.snapshot(actualHtml, compareHtml);
+  } else {
+    try {
+      fs.writeFileSync(snapFileName, actualHtml);
+    } catch (e) {
+      console.log(`エラーが発生しました。: ${e.message}`);
+    }
+  }
 });
 
 testListParts.run();
