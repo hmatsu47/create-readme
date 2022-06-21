@@ -16,6 +16,7 @@
     "jsdom": "^20.0.0",
     "prettier": "^2.7.1",
     "solid-register": "^0.2.5",
+    "solid-testing-library": "^0.3.0",
     "typescript": "^4.7.4",
     "uvu": "^0.5.3",
     "vite": "^2.9.12",
@@ -24,5 +25,13 @@
   "dependencies": {
     "@suid/material": "^0.4.2",
     "solid-js": "^1.4.4"
+  },
+    "solid-register": {
+      "compile": {
+        "solid": {
+          "engine": "solid",
+          "extensions": [".js", ".jsx", ".ts", ".tsx"]  
+        }
+      }
+    }
   }
-}
