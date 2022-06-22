@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 
-const snapFolder = './test/__snapshot__/';
+const snapFolder = './test/__snapshots__/';
 
 type Result = {
   snapshot?: string;
