@@ -65,7 +65,7 @@ routesAndButtons.forEach((routesAndButton) => {
     assert.ok(isInDom(button));
     // ボタンクリック後に route が切り替わるか？
     fireEvent.click(button);
-    assert.ok(route() === routesAndButton.newRouteName);
+    assert.equal(route(), routesAndButton.newRouteName, 'output differs');
     // ボタン表示も変わったか？
     const newButton = await screen.findByRole('button', { name: routesAndButton.newButtonLabel });
     assert.ok(isInDom(button));
