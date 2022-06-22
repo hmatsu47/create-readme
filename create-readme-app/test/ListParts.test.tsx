@@ -2,24 +2,16 @@ import { suite } from 'uvu';
 import * as assert from 'uvu/assert';
 import { cleanup, render } from 'solid-testing-library';
 import { ListParts } from '../src/ListParts';
-import * as fs from 'fs';
+import { loadSnapshot, formatSnapshot, saveSnapshot } from './common/snapStore';
 
-const testListParts = suite('testListParts');
-const snapFolder = './test/__snapshot__/';
+const test = suite('ListParts');
 
-testListParts.after.each(cleanup);
+test.after.each(cleanup);
 
-testListParts('<ListParts />', () => {
-  const snapFileName = `${snapFolder}ListParts.snap.txt`;
-  let compareHtml: string = '';
-  let isSnapStored = true;
-  try {
-    compareHtml = fs.readFileSync(snapFileName, 'utf-8');
-  } catch (e) {
-    console.log('スナップショットファイルがないので保存します。');
-    isSnapStored = false;
-  }
-
+test('<ListParts />', () => {
+  const testName = 'ListParts';
+  const load = loadSnapshot(testName);
+  // Qiita の記事一覧でスナップショットテストを行う
   const { container } = render(() => (
     <ListParts
       title={'Qiita'}
@@ -46,16 +38,14 @@ testListParts('<ListParts />', () => {
     />
   ));
 
-  const actualHtml = container.innerHTML.replace(/css-\w{6}/g, 'css-xxxxxx').replace(/\r/g, ' ');
-  if (isSnapStored) {
-    assert.snapshot(actualHtml, compareHtml);
+  const actualHtml = formatSnapshot(container.innerHTML);
+  if (load.isStored) {
+    // スナップショットファイルがあった場合は比較
+    assert.snapshot(actualHtml, load.snapshot!);
   } else {
-    try {
-      fs.writeFileSync(snapFileName, actualHtml);
-    } catch (e) {
-      console.log(`エラーが発生しました。: ${e.message}`);
-    }
+    // なかった場合はスナップショットをファイルに保存
+    saveSnapshot(testName, actualHtml);
   }
 });
 
-testListParts.run();
+test.run();
