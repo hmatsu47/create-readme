@@ -26,12 +26,17 @@
     "@suid/material": "^0.4.2",
     "solid-js": "^1.4.4"
   },
-    "solid-register": {
-      "compile": {
-        "solid": {
-          "engine": "solid",
-          "extensions": [".js", ".jsx", ".ts", ".tsx"]  
-        }
+  "solid-register": {
+    "compile": {
+      "solid": {
+        "engine": "solid",
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".ts",
+          ".tsx"
+        ]
       }
     }
   }
+}
