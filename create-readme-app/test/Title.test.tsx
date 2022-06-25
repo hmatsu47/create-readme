@@ -6,9 +6,10 @@ import { route, setRoute } from '../src/signal';
 import { loadSnapshot, formatSnapshot, saveSnapshot } from './common/snapStore';
 
 const test = suite('Title');
-const routeNames = ['articles', 'slides'];
 
 test.after.each(cleanup);
+
+const routeNames = ['articles', 'slides'];
 
 routeNames.forEach((routeName) => {
   test(`<Title /> route="${routeName}"`, () => {
