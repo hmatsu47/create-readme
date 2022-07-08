@@ -59,6 +59,11 @@
   ],
   "sd": [
     {
+      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-yi-xing-de-qi-wofu-ketahougaliang-ikoto-7-tu-plus-a",
+      "title": "Aurora MySQL v1 → v3 移行で 気を付けたほうが良いこと （7 つ + α）",
+      "published": "2022-07-03T06:50:29-04:00"
+    },
+    {
       "link": "https://speakerdeck.com/hmatsu47/solidjs-de-supabase-false-row-level-security-woshi-sitemita",
       "title": "SolidJS で Supabase の Row Level Security を試してみた",
       "published": "2022-05-30T10:19:23-04:00"
@@ -112,11 +117,6 @@
       "link": "https://speakerdeck.com/hmatsu47/amplify-flutter-woshi-outositaketowei-miao-najie-guo-nizhong-watutahua",
       "title": "Amplify Flutter を使おうとしたけど微妙な結果に終わった話",
       "published": "2021-11-23T07:09:51-05:00"
-    },
-    {
-      "link": "https://speakerdeck.com/hmatsu47/shao-namefalserong-liang-deefswoshi-utokifalsesu-du-falsehua",
-      "title": "少なめの容量でEFSを使うときの速度の話",
-      "published": "2021-07-24T22:07:02-04:00"
     }
   ]
 }
