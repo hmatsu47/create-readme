@@ -59,6 +59,11 @@
   ],
   "sd": [
     {
+      "link": "https://speakerdeck.com/hmatsu47/ta-ren-falsecheng-chang-wojian-shou-rinagarawo-gadao-wole-simusheng-kifang",
+      "title": "他人の成長を見守りながら我が道を楽しむ生き方",
+      "published": "2022-07-10T11:32:56-04:00"
+    },
+    {
       "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-yi-xing-de-qi-wofu-ketahougaliang-ikoto-7-tu-plus-a",
       "title": "Aurora MySQL v1 → v3 移行で 気を付けたほうが良いこと （7 つ + α）",
       "published": "2022-07-03T06:50:29-04:00"
@@ -112,11 +117,6 @@
       "link": "https://speakerdeck.com/hmatsu47/flutterdemapboxtosupabase-postgis-woshi-tutemita",
       "title": "FlutterでMapboxとSupabase（PostGIS）を使ってみた",
       "published": "2021-12-06T09:53:40-05:00"
-    },
-    {
-      "link": "https://speakerdeck.com/hmatsu47/amplify-flutter-woshi-outositaketowei-miao-najie-guo-nizhong-watutahua",
-      "title": "Amplify Flutter を使おうとしたけど微妙な結果に終わった話",
-      "published": "2021-11-23T07:09:51-05:00"
     }
   ]
 }
