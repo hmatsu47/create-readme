@@ -59,6 +59,11 @@
   ],
   "sd": [
     {
+      "link": "https://speakerdeck.com/hmatsu47/she-nei-supidoatupukontesuto-ofen-kishang-gebian",
+      "title": "社内スピードアップコンテスト お焚き上げ編",
+      "published": "2022-07-18T10:51:09-04:00"
+    },
+    {
       "link": "https://speakerdeck.com/hmatsu47/ta-ren-falsecheng-chang-wojian-shou-rinagarawo-gadao-wole-simusheng-kifang",
       "title": "他人の成長を見守りながら我が道を楽しむ生き方",
       "published": "2022-07-10T11:32:56-04:00"
@@ -112,11 +117,6 @@
       "link": "https://speakerdeck.com/hmatsu47/auroraguan-lian-atuhuteto-2021nian-ban",
       "title": "RDS/Aurora関連アップデート（2021年版）",
       "published": "2021-12-14T02:19:33-05:00"
-    },
-    {
-      "link": "https://speakerdeck.com/hmatsu47/flutterdemapboxtosupabase-postgis-woshi-tutemita",
-      "title": "FlutterでMapboxとSupabase（PostGIS）を使ってみた",
-      "published": "2021-12-06T09:53:40-05:00"
     }
   ]
 }
