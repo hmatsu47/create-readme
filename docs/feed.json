@@ -18,6 +18,11 @@
   ],
   "zenn": [
     {
+      "link": "https://zenn.dev/hmatsu47/articles/mysql80-count-slowdown",
+      "title": "MySQL 8.0 で SELECT COUNT(*) が失速する",
+      "published": "Fri, 22 Jul 2022 11:26:03 GMT"
+    },
+    {
       "link": "https://zenn.dev/hmatsu47/articles/mysql-dms-timezone",
       "title": "小ネタ／AWS DMS（CDC）で MySQL to MySQL 移行時のタイムゾーン指定",
       "published": "Tue, 19 Jul 2022 15:05:15 GMT"
@@ -26,11 +31,6 @@
       "link": "https://zenn.dev/hmatsu47/articles/mysql-dump-for-verup-check",
       "title": "小ネタ／MySQL でバージョンアップ時のデータ整合確認に mysqldump を使う",
       "published": "Thu, 07 Jul 2022 14:24:43 GMT"
-    },
-    {
-      "link": "https://zenn.dev/hmatsu47/articles/solidjs-uvu-test-sample",
-      "title": "SolidJS のテストを uvu で書いてみた",
-      "published": "Wed, 22 Jun 2022 15:00:59 GMT"
     }
   ],
   "note": [
