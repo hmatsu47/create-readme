@@ -5,7 +5,7 @@ env:
   TZ: Asia/Tokyo
 on:
   schedule:
-    - cron:  '05 */3 * * *'
+    - cron: '05 */3 * * *'
   workflow_dispatch:
 jobs:
   create_data:
@@ -19,7 +19,7 @@ jobs:
       - run: cp production/puppeteer-app/package-lock.json /home/runner/work/create-readme/create-readme/package-lock.json
       - name: Install font
         run: sudo apt install fonts-noto
-        
+
       - name: Setup nodejs
         uses: actions/setup-node@v3
         with:
@@ -32,7 +32,8 @@ jobs:
         run: node production/puppeteer-app/app.js
 
       - name: Create Pull Request main
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v4
+        id: cpr
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: production
@@ -41,3 +42,9 @@ jobs:
           base: main
           branch: data-bot/main
           labels: auto_merge
+
+      - name: Merge Pull Request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        run: gh pr merge ${{ steps.cpr.outputs.pull-request-url }} --merge
