@@ -5,7 +5,7 @@ env:
   TZ: Asia/Tokyo
 on:
   schedule:
-    - cron:  '00 */3 * * *'
+    - cron: '00 */3 * * *'
   workflow_dispatch:
 jobs:
   update_data:
@@ -20,14 +20,15 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
-      
+
       - name: Install dependencies
         run: pip install feedparser
       - name: Run python script (feedreader.py)
         run: python3 -B production/tools/feedreader.py > production/docs/feed.json
 
       - name: Create Pull Request main
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v4
+        id: cpr
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: production
@@ -36,3 +37,8 @@ jobs:
           base: main
           branch: data-bot/main
           labels: auto_merge
+
+      - name: Merge Pull Request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge ${{ steps.cpr.outputs.pull-request-url }} --merge
