@@ -57,5 +57,66 @@
       "published": "2022-01-01T19:39:05+09:00"
     }
   ],
-  "sd": []
+  "sd": [
+    {
+      "link": "https://speakerdeck.com/hmatsu47/she-nei-supidoatupukontesuto-ofen-kishang-gebian",
+      "title": "社内スピードアップコンテスト お焚き上げ編",
+      "published": "2022-07-18T10:51:09-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/ta-ren-falsecheng-chang-wojian-shou-rinagarawo-gadao-wole-simusheng-kifang",
+      "title": "他人の成長を見守りながら我が道を楽しむ生き方",
+      "published": "2022-07-10T11:32:56-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-yi-xing-de-qi-wofu-ketahougaliang-ikoto-7-tu-plus-a",
+      "title": "Aurora MySQL v1 → v3 移行で 気を付けたほうが良いこと （7 つ + α）",
+      "published": "2022-07-03T06:50:29-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/solidjs-de-supabase-false-row-level-security-woshi-sitemita",
+      "title": "SolidJS で Supabase の Row Level Security を試してみた",
+      "published": "2022-05-30T10:19:23-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-falseyi-xing-diao-cha-ji-hua-bian",
+      "title": "Aurora MySQL v1 → v3 の移行（調査・計画編）",
+      "published": "2022-04-28T23:25:58-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/she-nei-desupidoatupukontesutokai-cui-nitiao-zhan-sitahua",
+      "title": "社内でスピードアップコンテスト開催に挑戦した話",
+      "published": "2022-04-11T09:44:28-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-falseyi-xing-wozhun-bei-suru",
+      "title": "Aurora MySQL v1 → v3 の移行を準備する",
+      "published": "2022-04-08T10:34:02-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/javafalserekasina-web-ahuriwo-ecs-fargate-woshi-tuteduan-jie-de-nizuo-rizhi-si-maikuresiyonsuruhua",
+      "title": "Javaのレガシーな Web アプリを ECS Fargate を使って段階的に作り直し／マイグレーションする話",
+      "published": "2022-03-26T06:25:35-04:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/mofalserehofalsegithub-enterprise-karacodepipelinewohu-hichu-suxiao-neta",
+      "title": "モノレポのGitHub(Enterprise)からCodePipelineを呼び出す小ネタ",
+      "published": "2022-02-23T01:38:18-05:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/komiyuniteitofalseyuruitunagarifalsezhong-defalseen-song-ri",
+      "title": "コミュニティとのゆるいつながりの中での恩送り",
+      "published": "2022-01-28T23:01:55-05:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/fluttertesupabasefalsepostgresql-with-postgiswoshi-sitemita",
+      "title": "FlutterでSupabaseのPostgreSQL with PostGISを試してみた",
+      "published": "2021-12-14T02:22:21-05:00"
+    },
+    {
+      "link": "https://speakerdeck.com/hmatsu47/auroraguan-lian-atuhuteto-2021nian-ban",
+      "title": "RDS/Aurora関連アップデート（2021年版）",
+      "published": "2021-12-14T02:19:33-05:00"
+    }
+  ]
 }
