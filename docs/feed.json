@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/9b1090111f2683d386bc",
+      "title": "小ネタ／MySQL 8.0（Aurora MySQL v3）にバージョンアップしたときの実行計画調整にオプティマイザヒントを使う",
+      "published": "2022-09-28T21:44:59+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/5da28bf8c1f7165d03e9",
       "title": "小ネタ／Open API 3.0 ジェネレータ oapi-codegen v1.11.0 のコード自動生成の方法",
       "published": "2022-08-29T00:53:24+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/774a3ab9441fe8eb96c7",
       "title": "SolidJS で Supabase の Row Level Security を試してみた…の続き（補足）",
       "published": "2022-06-01T00:15:37+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/b6ba2d2994e1632c13ea",
-      "title": "SolidJS で Supabase の Row Level Security を試してみた",
-      "published": "2022-05-15T18:32:24+09:00"
     }
   ],
   "zenn": [
