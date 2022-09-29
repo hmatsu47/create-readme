@@ -59,6 +59,11 @@
   ],
   "sd": [
     {
+      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-v3-yi-xing-nojing-guo-bao-gao",
+      "title": "Aurora MySQL v1 → v3 移行の経過報告",
+      "published": "2022-09-29T11:14:58-04:00"
+    },
+    {
       "link": "https://speakerdeck.com/hmatsu47/she-nei-supidoatupukontesuto-ofen-kishang-gebian",
       "title": "社内スピードアップコンテスト お焚き上げ編",
       "published": "2022-07-18T10:51:09-04:00"
@@ -112,11 +117,6 @@
       "link": "https://speakerdeck.com/hmatsu47/fluttertesupabasefalsepostgresql-with-postgiswoshi-sitemita",
       "title": "FlutterでSupabaseのPostgreSQL with PostGISを試してみた",
       "published": "2021-12-14T02:22:21-05:00"
-    },
-    {
-      "link": "https://speakerdeck.com/hmatsu47/auroraguan-lian-atuhuteto-2021nian-ban",
-      "title": "RDS/Aurora関連アップデート（2021年版）",
-      "published": "2021-12-14T02:19:33-05:00"
     }
   ]
 }
