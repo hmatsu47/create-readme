@@ -21,7 +21,7 @@ export const ListParts = (props: Props) => {
   return (
     <Box>
       <Stack spacing={1} direction="column" id={props.id}>
-        <Link href={props.url} target={'_blank'} underline="none">
+        <Link href={props.url} target={'_blank'} underline="none" rel="noopener">
           <AppBar position="static" sx={{ backgroundColor: props.color }}>
             <Stack direction="row">
               <Typography
@@ -70,7 +70,7 @@ export const ListParts = (props: Props) => {
                         textAlign: 'left',
                       }}
                     >
-                      <Link href={item.link} target={'_blank'} underline="none">
+                      <Link href={item.link} target={'_blank'} underline="none" rel="noopener">
                         <Typography variant="subtitle1" color="text.secondary">
                           {item.title}
                         </Typography>
