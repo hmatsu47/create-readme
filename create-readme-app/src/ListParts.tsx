@@ -3,6 +3,7 @@ import AppBar from '@suid/material/AppBar';
 import Box from '@suid/material/Box';
 import Card from '@suid/material/Card';
 import CardContent from '@suid/material/CardContent';
+import Link from '@suid/material/Link';
 import Stack from '@suid/material/Stack';
 import Typography from '@suid/material/Typography';
 import { Item } from './type';
@@ -20,7 +21,7 @@ export const ListParts = (props: Props) => {
   return (
     <Box>
       <Stack spacing={1} direction="column" id={props.id}>
-        <a href={props.url} target={'_blank'}>
+        <Link href={props.url} target={'_blank'} underline="none">
           <AppBar position="static" sx={{ backgroundColor: props.color }}>
             <Stack direction="row">
               <Typography
@@ -45,7 +46,7 @@ export const ListParts = (props: Props) => {
               </Typography>
             </Stack>
           </AppBar>
-        </a>
+        </Link>
         <Show
           when={props.list.length > 0}
           fallback={
@@ -69,11 +70,11 @@ export const ListParts = (props: Props) => {
                         textAlign: 'left',
                       }}
                     >
-                      <a href={item.link} target={'_blank'}>
+                      <Link href={item.link} target={'_blank'} underline="none">
                         <Typography variant="subtitle1" color="text.secondary">
                           {item.title}
                         </Typography>
-                      </a>
+                      </Link>
                     </Box>
                     <Box
                       sx={{
