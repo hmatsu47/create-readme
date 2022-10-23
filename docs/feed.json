@@ -59,6 +59,11 @@
   ],
   "sd": [
     {
+      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-v3-noyi-xing-wan-liao-bao-gao",
+      "title": "Aurora MySQL v1 → v3 の移行完了報告",
+      "published": "2022-10-23T07:58:24-04:00"
+    },
+    {
       "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-v3-yi-xing-nojing-guo-bao-gao",
       "title": "Aurora MySQL v1 → v3 移行の経過報告",
       "published": "2022-09-29T11:14:58-04:00"
@@ -112,11 +117,6 @@
       "link": "https://speakerdeck.com/hmatsu47/komiyuniteitofalseyuruitunagarifalsezhong-defalseen-song-ri",
       "title": "コミュニティとのゆるいつながりの中での恩送り",
       "published": "2022-01-28T23:01:55-05:00"
-    },
-    {
-      "link": "https://speakerdeck.com/hmatsu47/fluttertesupabasefalsepostgresql-with-postgiswoshi-sitemita",
-      "title": "FlutterでSupabaseのPostgreSQL with PostGISを試してみた",
-      "published": "2021-12-14T02:22:21-05:00"
     }
   ]
 }
