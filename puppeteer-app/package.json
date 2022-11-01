@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^18.2.1",
+    "puppeteer": "^19.2.0",
     "prettier": "^2.7.1"
   },
   "type": "module"
