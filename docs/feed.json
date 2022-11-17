@@ -59,6 +59,11 @@
   ],
   "sd": [
     {
+      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-duan-fei-basinobaziyonatuputosonota-moromoronohua",
+      "title": "Aurora MySQL 一段飛ばしのバージョンアップとその他もろもろの話",
+      "published": "2022-11-17T06:28:59-05:00"
+    },
+    {
       "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-v3-noyi-xing-wan-liao-bao-gao",
       "title": "Aurora MySQL v1 → v3 の移行完了報告",
       "published": "2022-10-23T07:58:24-04:00"
@@ -112,11 +117,6 @@
       "link": "https://speakerdeck.com/hmatsu47/mofalserehofalsegithub-enterprise-karacodepipelinewohu-hichu-suxiao-neta",
       "title": "モノレポのGitHub(Enterprise)からCodePipelineを呼び出す小ネタ",
       "published": "2022-02-23T01:38:18-05:00"
-    },
-    {
-      "link": "https://speakerdeck.com/hmatsu47/komiyuniteitofalseyuruitunagarifalsezhong-defalseen-song-ri",
-      "title": "コミュニティとのゆるいつながりの中での恩送り",
-      "published": "2022-01-28T23:01:55-05:00"
     }
   ]
 }
