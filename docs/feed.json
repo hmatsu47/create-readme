@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/cb69c0a4f0042b7666e7",
+      "title": "Aurora の Blue/Green デプロイ（ベータ版）で少し遊んでみた",
+      "published": "2022-11-29T03:02:02+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/ef48b8673f4775bef4a6",
       "title": "Java のレガシーなサービスで使ってきた Aurora MySQL v1 を v3 にバージョンアップした話",
       "published": "2022-10-20T22:24:43+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/9b1090111f2683d386bc",
       "title": "小ネタ／MySQL 8.0（Aurora MySQL v3）にバージョンアップしたときの実行計画調整にオプティマイザヒントを使う",
       "published": "2022-09-28T21:44:59+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/5da28bf8c1f7165d03e9",
-      "title": "小ネタ／Open API 3.0 ジェネレータ oapi-codegen v1.11.0 のコード自動生成の方法",
-      "published": "2022-08-29T00:53:24+09:00"
     }
   ],
   "zenn": [
