@@ -44,27 +44,27 @@ const listParts: Parts[] = [
     url: 'https://qiita.com/hmatsu47',
   },
   {
-    title: 'Speaker Deck',
-    id: 'sd',
-    color: '#009287',
+    title: 'Docswell',
+    id: 'docswell',
+    color: '#14a1db',
     list: [
       {
-        link: 'https://speakerdeck.com/hmatsu47/solidjs-de-supabase-false-row-level-security-woshi-sitemita',
-        title: 'SolidJS で Supabase の Row Level Security を試してみた',
-        published: '2022-05-30T10:19:23-04:00',
+        link: 'https://www.docswell.com/s/hmatsu47/Z7WR15-2022-11-21-232543?ref=rss',
+        title: 'Aurora MySQL 一段飛ばしのバージョンアップとその他もろもろの話',
+        published: '2022-11-22T23:25:00+0900',
       },
       {
-        link: 'https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-falseyi-xing-diao-cha-ji-hua-bian',
-        title: 'Aurora MySQL v1 → v3 の移行（調査・計画編）',
-        published: '2022-04-28T23:25:58-04:00',
+        link: 'https://www.docswell.com/s/hmatsu47/KEGG1Z-2022-10-23-210239?ref=rss',
+        title: 'Aurora MySQL v1 → v3 移行完了報告',
+        published: '2022-10-28T15:17:00+0900',
       },
       {
-        link: 'https://speakerdeck.com/hmatsu47/she-nei-desupidoatupukontesutokai-cui-nitiao-zhan-sitahua',
-        title: '社内でスピードアップコンテスト開催に挑戦した話',
-        published: '2022-04-11T09:44:28-04:00',
+        link: 'https://www.docswell.com/s/hmatsu47/59P4JK-2022-09-30-001648?ref=rss',
+        title: 'Aurora MySQL v1→v3移行の経過報告',
+        published: '2022-09-30T21:19:00+0900',
       },
     ],
-    url: 'https://speakerdeck.com/hmatsu47',
+    url: 'https://www.docswell.com/user/hmatsu47',
   },
 ];
 

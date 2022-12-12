@@ -1,19 +1,19 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/4ff062081ea936a8a599",
+      "title": "切れたら逆ギレされた話",
+      "published": "2022-12-12T00:26:08+09:00"
+    },
+    {
+      "link": "https://qiita.com/hmatsu47/items/d3cf24f0e462628cd700",
+      "title": "Supabase で TCE（透過的列暗号化）をアプリケーションから使ってみた",
+      "published": "2022-12-12T00:23:26+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/59448a556230d3d84fd4",
       "title": "切れたらキレられた話",
       "published": "2022-12-11T07:03:51+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/ded16338d9b10409ac0c",
-      "title": "切れたけどキレなかった話",
-      "published": "2022-12-10T01:48:27+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/64c360698673677cd643",
-      "title": "切れて困った話",
-      "published": "2022-12-09T07:04:14+09:00"
     }
   ],
   "zenn": [
@@ -57,66 +57,66 @@
       "published": "2022-11-14T01:01:35+09:00"
     }
   ],
-  "sd": [
+  "docswell": [
     {
-      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-duan-fei-basinobaziyonatuputosonota-moromoronohua",
-      "title": "Aurora MySQL 一段飛ばしのバージョンアップとその他もろもろの話",
-      "published": "2022-11-17T06:28:59-05:00"
+      "link": "https://www.docswell.com/s/hmatsu47/Z7WR15-2022-11-21-232543?ref=rss",
+      "title": "Aurora MySQL 一段飛ばしのバージョンアップとその他もろもろの話",
+      "published": "Mon, 21 Nov 22 23:25:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-v3-noyi-xing-wan-liao-bao-gao",
-      "title": "Aurora MySQL v1 → v3 の移行完了報告",
-      "published": "2022-10-23T07:58:24-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/KEGG1Z-2022-10-23-210239?ref=rss",
+      "title": "Aurora MySQL v1 → v3 移行完了報告",
+      "published": "Fri, 28 Oct 22 15:17:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-v3-yi-xing-nojing-guo-bao-gao",
-      "title": "Aurora MySQL v1 → v3 移行の経過報告",
-      "published": "2022-09-29T11:14:58-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/59P4JK-2022-09-30-001648?ref=rss",
+      "title": "Aurora MySQL v1→v3移行の経過報告",
+      "published": "Fri, 30 Sep 22 21:19:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/she-nei-supidoatupukontesuto-ofen-kishang-gebian",
-      "title": "社内スピードアップコンテスト お焚き上げ編",
-      "published": "2022-07-18T10:51:09-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/KL2995-2022-07-27-220717?ref=rss",
+      "title": "社内スピードアップコンテスト・お焚き上げ編",
+      "published": "Thu, 28 Jul 22 22:10:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/ta-ren-falsecheng-chang-wojian-shou-rinagarawo-gadao-wole-simusheng-kifang",
-      "title": "他人の成長を見守りながら我が道を楽しむ生き方",
-      "published": "2022-07-10T11:32:56-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/ZL6RQ5-2022-07-11-003508?ref=rss",
+      "title": "他人の成長を見守りながら我が道を楽しむ生き方",
+      "published": "Sat, 16 Jul 22 11:11:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-yi-xing-de-qi-wofu-ketahougaliang-ikoto-7-tu-plus-a",
-      "title": "Aurora MySQL v1 → v3 移行で 気を付けたほうが良いこと （7 つ + α）",
-      "published": "2022-07-03T06:50:29-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/5VYLX5-2022-07-03-195254?ref=rss",
+      "title": "Aurora MySQL v1 → v3 移行で気を付けたほうが良いこと（7 つ + α）",
+      "published": "Fri, 08 Jul 22 23:52:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/solidjs-de-supabase-false-row-level-security-woshi-sitemita",
-      "title": "SolidJS で Supabase の Row Level Security を試してみた",
-      "published": "2022-05-30T10:19:23-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/5RMEWZ-2022-05-30-232653?ref=rss",
+      "title": "SolidJS で Supabase の Row Level Security を試してみた",
+      "published": "Tue, 31 May 22 18:54:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-falseyi-xing-diao-cha-ji-hua-bian",
-      "title": "Aurora MySQL v1 → v3 の移行（調査・計画編）",
-      "published": "2022-04-28T23:25:58-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/5M96XZ-2022-04-29-123545?ref=rss",
+      "title": "Aurora MySQL v1→v3の移行（調査・計画編）",
+      "published": "Fri, 29 Apr 22 12:35:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/she-nei-desupidoatupukontesutokai-cui-nitiao-zhan-sitahua",
-      "title": "社内でスピードアップコンテスト開催に挑戦した話",
-      "published": "2022-04-11T09:44:28-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/54LGD5-2022-04-16-172336?ref=rss",
+      "title": "社内でスピードアップコンテスト開催に挑戦した話",
+      "published": "Sat, 16 Apr 22 17:23:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/aurora-mysql-v1-nil-v3-falseyi-xing-wozhun-bei-suru",
-      "title": "Aurora MySQL v1 → v3 の移行を準備する",
-      "published": "2022-04-08T10:34:02-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/5J6D3Z-2022-04-16-172224?ref=rss",
+      "title": "Aurora MySQL v1→v3の移行を準備する",
+      "published": "Sat, 16 Apr 22 17:22:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/javafalserekasina-web-ahuriwo-ecs-fargate-woshi-tuteduan-jie-de-nizuo-rizhi-si-maikuresiyonsuruhua",
-      "title": "Javaのレガシーな Web アプリを ECS Fargate を使って段階的に作り直し／マイグレーションする話",
-      "published": "2022-03-26T06:25:35-04:00"
+      "link": "https://www.docswell.com/s/hmatsu47/Z712WZ-2022-04-16-172100?ref=rss",
+      "title": "JavaのレガシーなWebアプリをECS Fargateを使って段階的に作り直し／マイグレーションする話",
+      "published": "Sat, 16 Apr 22 17:21:00 +0900"
     },
     {
-      "link": "https://speakerdeck.com/hmatsu47/mofalserehofalsegithub-enterprise-karacodepipelinewohu-hichu-suxiao-neta",
+      "link": "https://www.docswell.com/s/hmatsu47/KQLDV5-2022-04-16-171942?ref=rss",
       "title": "モノレポのGitHub(Enterprise)からCodePipelineを呼び出す小ネタ",
-      "published": "2022-02-23T01:38:18-05:00"
+      "published": "Sat, 16 Apr 22 17:19:00 +0900"
     }
   ]
 }

@@ -8,5 +8,5 @@ export type Feed = {
   zenn?: Item[];
   note?: Item[];
   hatena?: Item[];
-  sd?: Item[];
+  docswell?: Item[];
 };

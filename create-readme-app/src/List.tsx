@@ -90,14 +90,17 @@ export const List = () => {
           </Show>
         </Show>
         <Show when={route() === 'slides'} fallback={<></>}>
-          <Show when={!data.loading && data()!.sd! && data()!.sd!.length > 0} fallback={<></>}>
+          <Show
+            when={!data.loading && data()!.docswell! && data()!.docswell!.length > 0}
+            fallback={<></>}
+          >
             <Box sx={{ paddingTop: '10px' }}></Box>
             <ListParts
-              title={'Speaker Deck'}
-              id={'sd'}
-              color={'#009287'}
-              list={data()!.sd!}
-              url={'https://speakerdeck.com/hmatsu47'}
+              title={'Docswell'}
+              id={'docswell'}
+              color={'#14a1db'}
+              list={data()!.docswell!}
+              url={'https://www.docswell.com/user/hmatsu47'}
             />
           </Show>
         </Show>

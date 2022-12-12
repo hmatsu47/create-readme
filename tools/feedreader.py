@@ -16,11 +16,11 @@ def main():
     # はてなブログ記事のフィードを 2 件取得
     hatena = feedparser.parse('https://hmatsu47.hatenablog.com/feed')
     hatena_dict = convert_feed(hatena, 2)
-    # Speaker Deck 資料のフィードを 12 件取得
-    sd = feedparser.parse('https://speakerdeck.com/hmatsu47.atom')
-    sd_dict = convert_feed(sd, 12)
+    # Docswell 資料のフィードを 12 件取得
+    dw = feedparser.parse('https://www.docswell.com/user/hmatsu47/feed')
+    docswell_dict = convert_feed(dw, 12)
     # 連結して JSON 出力
-    result = {'qiita': qiita_dict, 'zenn': zenn_dict, 'note': note_dict, 'hatena': hatena_dict, 'sd': sd_dict}
+    result = {'qiita': qiita_dict, 'zenn': zenn_dict, 'note': note_dict, 'hatena': hatena_dict, 'docswell': docswell_dict}
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
 def convert_feed(feed, count):
