@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/8f8304543acdeaba0fde",
+      "title": "ビルの電源が全落ちした話",
+      "published": "2022-12-13T00:03:15+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/4ff062081ea936a8a599",
       "title": "切れたら逆ギレされた話",
       "published": "2022-12-12T00:26:08+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/d3cf24f0e462628cd700",
       "title": "Supabase で TCE（透過的列暗号化）をアプリケーションから使ってみた",
       "published": "2022-12-12T00:23:26+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/59448a556230d3d84fd4",
-      "title": "切れたらキレられた話",
-      "published": "2022-12-11T07:03:51+09:00"
     }
   ],
   "zenn": [
