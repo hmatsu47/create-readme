@@ -47,22 +47,17 @@
   ],
   "hatena": [
     {
+      "link": "https://hmatsu47.hatenablog.com/entry/2022/12/19/223653",
+      "title": "MySQL テクノロジーセミナー スペシャルエディション \"Facebook & MySQL\" + 静嘉堂文庫美術館（12/2）",
+      "published": "2022-12-19T22:36:53+09:00"
+    },
+    {
       "link": "https://hmatsu47.hatenablog.com/entry/2022/11/23/005951",
       "title": "吉祥寺.pm31【オンライン】（11/22）",
       "published": "2022-11-23T00:59:51+09:00"
-    },
-    {
-      "link": "https://hmatsu47.hatenablog.com/entry/2022/11/14/010135",
-      "title": "久々のオフラインイベント参加で感じたこと",
-      "published": "2022-11-14T01:01:35+09:00"
     }
   ],
   "docswell": [
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5XLPX5-2022-12-19-123832?ref=rss",
-      "title": "Supabase で TCE（透過的列暗号化）を試してみた",
-      "published": "Mon, 19 Dec 22 12:38:00 +0900"
-    },
     {
       "link": "https://www.docswell.com/s/hmatsu47/ZN4RGK-2022-12-16-130111?ref=rss",
       "title": "Aurora MySQL のバージョンアップで Blue_Green デプロイを試してみた",
@@ -117,6 +112,11 @@
       "link": "https://www.docswell.com/s/hmatsu47/5J6D3Z-2022-04-16-172224?ref=rss",
       "title": "Aurora MySQL v1→v3の移行を準備する",
       "published": "Sat, 16 Apr 22 17:22:00 +0900"
+    },
+    {
+      "link": "https://www.docswell.com/s/hmatsu47/Z712WZ-2022-04-16-172100?ref=rss",
+      "title": "JavaのレガシーなWebアプリをECS Fargateを使って段階的に作り直し／マイグレーションする話",
+      "published": "Sat, 16 Apr 22 17:21:00 +0900"
     }
   ]
 }
