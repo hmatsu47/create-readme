@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/116b208ae67deb8ad513",
+      "title": "ラックの設置に困った話",
+      "published": "2022-12-20T00:19:46+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/daa74d4db76e7286e561",
       "title": "AD 移行に失敗した話",
       "published": "2022-12-19T01:15:48+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/0c4ac2e364ec03eda530",
       "title": "インターネット接続で困った話",
       "published": "2022-12-18T07:04:01+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/59eadeb2e143de839004",
-      "title": "リモートアクセスで困った話 (2)",
-      "published": "2022-12-17T07:03:57+09:00"
     }
   ],
   "zenn": [
