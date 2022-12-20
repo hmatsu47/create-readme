@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/1c168ae2795c3421596d",
+      "title": "サーバーの発注ミスで困った話",
+      "published": "2022-12-21T00:23:42+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/5dd4528e2c22570bd29e",
       "title": "RDS for MySQL（8.0.30 以降）で Optimized Writes を試してみた",
       "published": "2022-12-21T00:06:03+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/6b6d8cee72b6a045fc2d",
       "title": "ゆるいつながりを作っていくためのアウトプット",
       "published": "2022-12-20T07:04:07+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/116b208ae67deb8ad513",
-      "title": "ラックの設置に困った話",
-      "published": "2022-12-20T00:19:46+09:00"
     }
   ],
   "zenn": [
@@ -61,7 +61,7 @@
     {
       "link": "https://www.docswell.com/s/hmatsu47/5XLPX5-2022-12-19-123832?ref=rss",
       "title": "Supabase で TCE（透過的列暗号化）を試してみた",
-      "published": "Mon, 19 Dec 22 12:38:00 +0900"
+      "published": "Tue, 20 Dec 22 22:43:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/ZN4RGK-2022-12-16-130111?ref=rss",
