@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KVGXVK-2022-12-22-001522?ref=rss",
+      "title": "RDS / Aurora 関連アップデート 2022",
+      "published": "Thu, 22 Dec 22 00:15:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5XLPX5-2022-12-19-123832?ref=rss",
       "title": "Supabase で TCE（透過的列暗号化）を試してみた",
       "published": "Tue, 20 Dec 22 22:43:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/54LGD5-2022-04-16-172336?ref=rss",
       "title": "社内でスピードアップコンテスト開催に挑戦した話",
       "published": "Sat, 16 Apr 22 17:23:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5J6D3Z-2022-04-16-172224?ref=rss",
-      "title": "Aurora MySQL v1→v3の移行を準備する",
-      "published": "Sat, 16 Apr 22 17:22:00 +0900"
     }
   ]
 }
