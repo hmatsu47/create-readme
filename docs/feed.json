@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/4da27173d8bb92a96ed0",
+      "title": "データセンターの引っ越しで困った話",
+      "published": "2022-12-22T01:16:02+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/1c168ae2795c3421596d",
       "title": "サーバーの発注ミスで困った話",
       "published": "2022-12-21T00:23:42+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/5dd4528e2c22570bd29e",
       "title": "RDS for MySQL（8.0.30 以降）で Optimized Writes を試してみた",
       "published": "2022-12-21T00:06:03+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/6b6d8cee72b6a045fc2d",
-      "title": "ゆるいつながりを作っていくためのアウトプット",
-      "published": "2022-12-20T07:04:07+09:00"
     }
   ],
   "zenn": [
