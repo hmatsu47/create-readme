@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/f218dbfbc14a5802b30f",
+      "title": "DR サイトの構築で困った話",
+      "published": "2022-12-23T00:34:04+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/4da27173d8bb92a96ed0",
       "title": "データセンターの引っ越しで困った話",
       "published": "2022-12-22T01:16:02+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/1c168ae2795c3421596d",
       "title": "サーバーの発注ミスで困った話",
       "published": "2022-12-21T00:23:42+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/5dd4528e2c22570bd29e",
-      "title": "RDS for MySQL（8.0.30 以降）で Optimized Writes を試してみた",
-      "published": "2022-12-21T00:06:03+09:00"
     }
   ],
   "zenn": [
@@ -60,8 +60,8 @@
   "docswell": [
     {
       "link": "https://www.docswell.com/s/hmatsu47/KVGXVK-2022-12-22-001522?ref=rss",
-      "title": "RDS _ Aurora 関連アップデート 2022",
-      "published": "Thu, 22 Dec 22 00:15:00 +0900"
+      "title": "RDS / Aurora 関連アップデート 2022",
+      "published": "Thu, 22 Dec 22 15:54:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/5XLPX5-2022-12-19-123832?ref=rss",
