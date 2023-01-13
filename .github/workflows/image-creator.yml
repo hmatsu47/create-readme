@@ -18,7 +18,7 @@ jobs:
       - run: cp production/puppeteer-app/package.json /home/runner/work/create-readme/create-readme/package.json
       - run: cp production/puppeteer-app/package-lock.json /home/runner/work/create-readme/create-readme/package-lock.json
       - name: Install font
-        run: sudo apt install fonts-noto
+        run: sudo apt-get install fonts-noto
 
       - name: Setup nodejs
         uses: actions/setup-node@v3
