@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/K6WQ4K-2023-01-14-152816?ref=rss",
+      "title": "RDS/Aurora バージョンアップのポイント",
+      "published": "Sun, 15 Jan 23 01:09:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KVGXVK-2022-12-22-001522?ref=rss",
       "title": "RDS / Aurora 関連アップデート 2022",
       "published": "Fri, 23 Dec 22 17:00:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5M96XZ-2022-04-29-123545?ref=rss",
       "title": "Aurora MySQL v1→v3の移行（調査・計画編）",
       "published": "Fri, 29 Apr 22 12:35:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/54LGD5-2022-04-16-172336?ref=rss",
-      "title": "社内でスピードアップコンテスト開催に挑戦した話",
-      "published": "Sat, 16 Apr 22 17:23:00 +0900"
     }
   ]
 }
