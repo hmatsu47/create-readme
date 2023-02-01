@@ -23,7 +23,7 @@
     "vite-plugin-solid": "^2.5.0"
   },
   "dependencies": {
-    "@suid/material": "^0.9.2",
+    "@suid/material": "^0.10.0",
     "solid-app-router": "^0.4.2",
     "solid-js": "^1.6.10"
   },
