@@ -25,7 +25,7 @@
   "dependencies": {
     "@suid/material": "^0.10.1",
     "solid-app-router": "^0.4.2",
-    "solid-js": "^1.6.10"
+    "solid-js": "^1.6.11"
   },
   "solid-register": {
     "compile": {
