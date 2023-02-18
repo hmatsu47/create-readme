@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/K386J8-2023-02-19-010254?ref=rss",
+      "title": "Supabase で PGroonga がサポートされたので Flutter アプリから使ってみた",
+      "published": "Sun, 19 Feb 23 01:08:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/K6WQ4K-2023-01-14-152816?ref=rss",
       "title": "RDS/Aurora バージョンアップのポイント",
       "published": "Tue, 17 Jan 23 01:17:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5RMEWZ-2022-05-30-232653?ref=rss",
       "title": "SolidJS で Supabase の Row Level Security を試してみた",
       "published": "Tue, 31 May 22 18:54:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5M96XZ-2022-04-29-123545?ref=rss",
-      "title": "Aurora MySQL v1→v3の移行（調査・計画編）",
-      "published": "Fri, 29 Apr 22 12:35:00 +0900"
     }
   ]
 }
