@@ -1,6 +1,6 @@
 import { suite } from 'uvu';
 import * as assert from 'uvu/assert';
-import { cleanup, render } from 'solid-testing-library';
+import { cleanup, render } from '@solidjs/testing-library';
 import { ListParts } from '../src/ListParts';
 import { loadSnapshot, formatSnapshot, saveSnapshot } from './common/snapStore';
 
