@@ -19,7 +19,7 @@
     "@solidjs/testing-library": "^0.7.0",
     "typescript": "^5.0.4",
     "uvu": "^0.5.6",
-    "vite": "^4.2.1",
+    "vite": "^4.2.2",
     "vite-plugin-solid": "^2.7.0"
   },
   "dependencies": {
