@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/K4QV9Y-2023-04-23-123311?ref=rss",
+      "title": "パッケージマネージャー dbdev があらわれた！ので、LangChain のパッケージ embedding_search を試してみた",
+      "published": "Sun, 23 Apr 23 13:11:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5P99XX-2023-03-27-210851?ref=rss",
       "title": "DynamoDB Streams を Lambda のトリガーで使う話",
       "published": "Wed, 29 Mar 23 22:03:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KL2995-2022-07-27-220717?ref=rss",
       "title": "社内スピードアップコンテスト・お焚き上げ編",
       "published": "Thu, 28 Jul 22 22:10:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZL6RQ5-2022-07-11-003508?ref=rss",
-      "title": "他人の成長を見守りながら我が道を楽しむ生き方",
-      "published": "Sat, 16 Jul 22 11:11:00 +0900"
     }
   ]
 }
