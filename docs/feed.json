@@ -18,6 +18,11 @@
   ],
   "zenn": [
     {
+      "link": "https://zenn.dev/hmatsu47/articles/supabase-langchain-embedding_search",
+      "title": "langchain-embedding_search を使って Supabase を Vector Store として使う",
+      "published": "Thu, 27 Apr 2023 16:08:32 GMT"
+    },
+    {
       "link": "https://zenn.dev/hmatsu47/articles/supabase_pgroonga_stopword_wa",
       "title": "Supabase の PGroonga 全文検索でストップワード対応のワークアラウンドを試してみる",
       "published": "Sun, 29 Jan 2023 13:19:56 GMT"
@@ -26,11 +31,6 @@
       "link": "https://zenn.dev/hmatsu47/articles/supabase_pgroonga_synonyms",
       "title": "Supabase の PGroonga 全文検索で同義語検索してみる",
       "published": "Sat, 28 Jan 2023 11:37:17 GMT"
-    },
-    {
-      "link": "https://zenn.dev/hmatsu47/articles/supabase_pgroonga_flutter",
-      "title": "Flutter で Supabase の PGroonga 全文検索を試してみた",
-      "published": "Wed, 25 Jan 2023 15:02:26 GMT"
     }
   ],
   "note": [
