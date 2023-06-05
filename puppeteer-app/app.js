@@ -9,6 +9,7 @@ import puppeteer from 'puppeteer';
       width: 980,
       height: 1080,
     },
+    headless: 'new',
   });
   const page = await browser.newPage();
 
