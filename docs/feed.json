@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/K6Y7D9-2023-06-12-005042?ref=rss",
+      "title": "1 分間",
+      "published": "Mon, 12 Jun 23 00:53:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/K4QV9Y-2023-04-23-123311?ref=rss",
       "title": "パッケージマネージャー dbdev があらわれた！ので、LangChain のパッケージ embedding_search を試してみた",
       "published": "Sun, 23 Apr 23 18:10:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/59P4JK-2022-09-30-001648?ref=rss",
       "title": "Aurora MySQL v1→v3移行の経過報告",
       "published": "Fri, 30 Sep 22 21:19:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/KL2995-2022-07-27-220717?ref=rss",
-      "title": "社内スピードアップコンテスト・お焚き上げ編",
-      "published": "Thu, 28 Jul 22 22:10:00 +0900"
     }
   ]
 }
