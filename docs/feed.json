@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZDEGLR-2023-06-21-000043?ref=rss",
+      "title": "OP25B だと思って AWS アカウントを使っていたら OP25B じゃなかった話",
+      "published": "Wed, 21 Jun 23 00:00:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/K6Y7D9-2023-06-12-005042?ref=rss",
       "title": "1 分間",
       "published": "Fri, 16 Jun 23 08:58:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KEGG1Z-2022-10-23-210239?ref=rss",
       "title": "Aurora MySQL v1 → v3 移行完了報告",
       "published": "Fri, 28 Oct 22 15:17:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/59P4JK-2022-09-30-001648?ref=rss",
-      "title": "Aurora MySQL v1→v3移行の経過報告",
-      "published": "Fri, 30 Sep 22 21:19:00 +0900"
     }
   ]
 }
