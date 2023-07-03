@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@solidjs/testing-library": "^0.8.1",
+    "@solidjs/testing-library": "^0.8.3",
     "jsdom": "^22.1.0",
     "prettier": "^2.8.8",
     "solid-register": "^0.2.5",
