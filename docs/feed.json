@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/4c61ce90adcdbbea74e9",
+      "title": "東京リージョンにやってきた MySQL HeatWave on AWS を試す (3) バックアップをリストアしてサイズを変えてみる編",
+      "published": "2023-07-25T00:26:08+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/0979f877ad596cf3cf67",
       "title": "東京リージョンにやってきた MySQL HeatWave on AWS を試す (2) サンプルクエリ実行編",
       "published": "2023-07-23T22:37:10+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/8f202eef64ea57e7d948",
       "title": "東京リージョンにやってきた MySQL HeatWave on AWS を試す (1) 初期設定編",
       "published": "2023-07-23T11:52:37+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/e6e8fc9290eede7c8a55",
-      "title": "blastengine で送信したメールの Bounce Event を取得するサンプル",
-      "published": "2023-03-14T13:03:14+09:00"
     }
   ],
   "zenn": [
