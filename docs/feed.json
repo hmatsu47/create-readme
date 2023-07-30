@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/5bf7b37f694e56f3dc82",
+      "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (1) 変更の伝搬に関するもの",
+      "published": "2023-07-30T23:57:48+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/230d345e481701a5d735",
       "title": "東京リージョンにやってきた MySQL HeatWave on AWS を試す (4) サンプルデータを使って他のクエリを流してみる編",
       "published": "2023-07-29T01:39:20+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/4c61ce90adcdbbea74e9",
       "title": "東京リージョンにやってきた MySQL HeatWave on AWS を試す (3) バックアップをリストアしてサイズを変えてみる編",
       "published": "2023-07-25T00:26:08+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/0979f877ad596cf3cf67",
-      "title": "東京リージョンにやってきた MySQL HeatWave on AWS を試す (2) サンプルクエリ実行編",
-      "published": "2023-07-23T22:37:10+09:00"
     }
   ],
   "zenn": [
