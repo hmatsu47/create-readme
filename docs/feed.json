@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5ENYG8-2023-08-06-145801?ref=rss",
+      "title": "Cloudflare Workers から PostgreSQL に接続可能になったので試してみた",
+      "published": "Sun, 06 Aug 23 14:58:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/K24N6M-2023-07-10-003514?ref=rss",
       "title": "Performance Insights アップデート",
       "published": "Tue, 11 Jul 23 12:06:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5XLPX5-2022-12-19-123832?ref=rss",
       "title": "Supabase で TCE（透過的列暗号化）を試してみた",
       "published": "Tue, 20 Dec 22 22:43:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZN4RGK-2022-12-16-130111?ref=rss",
-      "title": "Aurora MySQL のバージョンアップで Blue_Green デプロイを試してみた",
-      "published": "Fri, 16 Dec 22 13:01:00 +0900"
     }
   ]
 }
