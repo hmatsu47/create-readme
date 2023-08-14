@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/bae9e9c406416069c65b",
+      "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (2) データ型 (2)",
+      "published": "2023-08-14T23:11:00+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/a9667762fb5ecdd66e75",
       "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (2) データ型 (1)",
       "published": "2023-08-06T23:02:55+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/5bf7b37f694e56f3dc82",
       "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (1) 変更の伝搬に関するもの",
       "published": "2023-07-30T23:57:48+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/230d345e481701a5d735",
-      "title": "東京リージョンにやってきた MySQL HeatWave on AWS を試す (4) サンプルデータを使って他のクエリを流してみる編",
-      "published": "2023-07-29T01:39:20+09:00"
     }
   ],
   "zenn": [
