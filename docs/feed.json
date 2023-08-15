@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5NR7MW-2023-08-15-214227?ref=rss",
+      "title": "MySQL HeatWave on AWS を試してみる",
+      "published": "Tue, 15 Aug 23 21:42:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5ENYG8-2023-08-06-145801?ref=rss",
       "title": "Cloudflare Workers から PostgreSQL に接続可能になったので試してみた",
       "published": "Mon, 07 Aug 23 22:49:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KVGXVK-2022-12-22-001522?ref=rss",
       "title": "RDS / Aurora 関連アップデート 2022",
       "published": "Fri, 23 Dec 22 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5XLPX5-2022-12-19-123832?ref=rss",
-      "title": "Supabase で TCE（透過的列暗号化）を試してみた",
-      "published": "Tue, 20 Dec 22 22:43:00 +0900"
     }
   ]
 }
