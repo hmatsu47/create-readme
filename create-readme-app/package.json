@@ -15,17 +15,17 @@
   "devDependencies": {
     "@solidjs/testing-library": "^0.8.4",
     "jsdom": "^22.1.0",
-    "prettier": "^3.0.1",
+    "prettier": "^3.0.2",
     "solid-register": "^0.2.5",
     "typescript": "^5.1.6",
     "uvu": "^0.5.6",
-    "vite": "^4.4.8",
+    "vite": "^4.4.9",
     "vite-plugin-solid": "^2.7.0"
   },
   "dependencies": {
     "@suid/material": "^0.14.2",
     "solid-app-router": "^0.4.2",
-    "solid-js": "^1.7.8"
+    "solid-js": "^1.7.11"
   },
   "solid-register": {
     "compile": {
