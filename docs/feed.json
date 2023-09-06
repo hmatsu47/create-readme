@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/b7d43ff93567f4487ca3",
+      "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (4) インデックスヒント・オプティマイザヒント・結合（JOIN）",
+      "published": "2023-09-06T23:54:17+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/70084f1cced2e49ad8e0",
       "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (3) 関数・オペレータ",
       "published": "2023-09-06T01:26:21+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/bae9e9c406416069c65b",
       "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (2) データ型 (2)",
       "published": "2023-08-14T23:11:00+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/a9667762fb5ecdd66e75",
-      "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (2) データ型 (1)",
-      "published": "2023-08-06T23:02:55+09:00"
     }
   ],
   "zenn": [
