@@ -19,13 +19,13 @@
     "solid-register": "^0.2.5",
     "typescript": "^5.2.2",
     "uvu": "^0.5.6",
-    "vite": "^4.4.11",
-    "vite-plugin-solid": "^2.7.1"
+    "vite": "^4.5.0",
+    "vite-plugin-solid": "^2.7.2"
   },
   "dependencies": {
     "@suid/material": "^0.15.1",
     "solid-app-router": "^0.4.2",
-    "solid-js": "^1.8.1"
+    "solid-js": "^1.8.3"
   },
   "solid-register": {
     "compile": {
