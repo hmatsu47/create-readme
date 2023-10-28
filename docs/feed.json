@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5ENJW8-2023-10-28-165714?ref=rss",
+      "title": "かつて存在した、パソコン通信という沼の話",
+      "published": "Sat, 28 Oct 23 16:57:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZJLNVN-2023-10-12-025145?ref=rss",
       "title": "MySQL HeatWave の制限事項と RDS for MySQL → HeatWave on AWS の DMS レプリケーションを実際に試してみた",
       "published": "Thu, 12 Oct 23 03:31:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5P99XX-2023-03-27-210851?ref=rss",
       "title": "DynamoDB Streams を Lambda のトリガーで使う話",
       "published": "Wed, 29 Mar 23 22:03:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5M1W3E-2023-02-24-005232?ref=rss",
-      "title": "簡易製本機「とじ太くん 3000」で技術同人誌のサンプルを作っていた話",
-      "published": "Sat, 25 Feb 23 18:02:00 +0900"
     }
   ]
 }
