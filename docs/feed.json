@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/57V66D-2023-11-01-005525?ref=rss",
+      "title": "20 世紀末の地方税理士事務所で IT 導入の 1 → 10 を頑張った話",
+      "published": "Wed, 01 Nov 23 01:03:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5ENJW8-2023-10-28-165714?ref=rss",
       "title": "パソコン通信むかしばなし",
       "published": "Tue, 31 Oct 23 18:52:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/K4QV9Y-2023-04-23-123311?ref=rss",
       "title": "パッケージマネージャー dbdev があらわれた！ので、LangChain のパッケージ embedding_search を試してみた",
       "published": "Sun, 23 Apr 23 18:10:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5P99XX-2023-03-27-210851?ref=rss",
-      "title": "DynamoDB Streams を Lambda のトリガーで使う話",
-      "published": "Wed, 29 Mar 23 22:03:00 +0900"
     }
   ]
 }
