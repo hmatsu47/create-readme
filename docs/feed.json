@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/04e78fcb331239690911",
+      "title": "Gmail メール送信者のガイドライン変更に備える話",
+      "published": "2023-12-01T07:02:27+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/34f4ab2047b95f767f18",
       "title": "RDS for MySQL から HeatWave on AWS へ DMS レプリケーション",
       "published": "2023-09-10T17:52:28+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/4412e043ae74b74fcd70",
       "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (5) その他",
       "published": "2023-09-09T15:43:40+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/b7d43ff93567f4487ca3",
-      "title": "MySQL HeatWave で動作の制限・制約がある SQL 文 (4) インデックスヒント・オプティマイザヒント・結合（JOIN）",
-      "published": "2023-09-06T23:54:17+09:00"
     }
   ],
   "zenn": [
