@@ -15,12 +15,12 @@
   "devDependencies": {
     "@solidjs/testing-library": "^0.8.4",
     "jsdom": "^23.0.1",
-    "prettier": "^3.1.0",
+    "prettier": "^3.1.1",
     "solid-register": "^0.2.5",
-    "typescript": "^5.3.2",
+    "typescript": "^5.3.3",
     "uvu": "^0.5.6",
     "vite": "^4.5.0",
-    "vite-plugin-solid": "^2.7.2"
+    "vite-plugin-solid": "^2.8.0"
   },
   "dependencies": {
     "@suid/material": "^0.15.1",
