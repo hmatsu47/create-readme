@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/538Q3D-2024-01-05-011625?ref=rss",
+      "title": "Data API のその後と Aurora zero-ETL 統合のデータ転送処理の話",
+      "published": "Fri, 05 Jan 24 01:16:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZGX4PM-2023-12-17-160927?ref=rss",
       "title": "RDS_Aurora 関連アップデート 2023 版",
       "published": "Mon, 18 Dec 23 16:45:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/51JXQ8-2023-07-02-223937?ref=rss",
       "title": "PostgreSQL 16 (Beta 1) で実装された SQL_2023 標準の関数 ANY_VALUE() って何者？",
       "published": "Mon, 03 Jul 23 09:54:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZDEGLR-2023-06-21-000043?ref=rss",
-      "title": "OP25B だと思って AWS アカウントを使っていたら OP25B じゃなかった話",
-      "published": "Thu, 22 Jun 23 00:09:00 +0900"
     }
   ]
 }
