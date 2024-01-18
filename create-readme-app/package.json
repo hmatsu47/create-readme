@@ -15,7 +15,7 @@
   "devDependencies": {
     "@solidjs/testing-library": "^0.8.5",
     "jsdom": "^23.0.1",
-    "prettier": "^3.2.2",
+    "prettier": "^3.2.4",
     "solid-register": "^0.2.5",
     "typescript": "^5.3.3",
     "uvu": "^0.5.6",
