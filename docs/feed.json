@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KJLP8N-2024-01-25-221651?ref=rss",
+      "title": "RDS Data API と Aurora zero-ETL 統合と BuriKaigi2024 の話",
+      "published": "Thu, 25 Jan 24 22:30:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/538Q3D-2024-01-05-011625?ref=rss",
       "title": "RDS Data API のその後と Aurora zero-ETL 統合のデータ転送処理の話",
       "published": "Sat, 06 Jan 24 11:58:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/K24N6M-2023-07-10-003514?ref=rss",
       "title": "Performance Insights アップデート",
       "published": "Tue, 11 Jul 23 12:06:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/51JXQ8-2023-07-02-223937?ref=rss",
-      "title": "PostgreSQL 16 (Beta 1) で実装された SQL_2023 標準の関数 ANY_VALUE() って何者？",
-      "published": "Mon, 03 Jul 23 09:54:00 +0900"
     }
   ]
 }
