@@ -17,7 +17,7 @@
     "jsdom": "^23.0.1",
     "prettier": "^3.2.5",
     "solid-register": "^0.2.5",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.2",
     "uvu": "^0.5.6",
     "vite": "^4.5.0",
     "vite-plugin-solid": "^2.10.1"
