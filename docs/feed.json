@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/2bdac77abb862e9f0311",
+      "title": "Aurora MySQL 3.06 の ML 機能で Bedrock アクセスを試してみた",
+      "published": "2024-03-15T03:06:59+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/2b15bc50d56589501c68",
       "title": "2023 年の PostgreSQL コミュニティとの関わりをふりかえる",
       "published": "2023-12-25T07:00:55+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/3ebefcc778273776f5e6",
       "title": "PolarDB for PostgreSQL 14 で pgvector と LangChain を使ってベクトル検索してみる",
       "published": "2023-12-23T00:45:00+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/22f40676dc82868e90d1",
-      "title": "RDS for MySQL で Redshift との Zero-ETL 統合（プレビュー）を試してみた",
-      "published": "2023-12-20T00:16:21+09:00"
     }
   ],
   "zenn": [
