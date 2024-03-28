@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KM1D48-2024-03-28-235143?ref=rss",
+      "title": "Aurora MySQL と Redshift の zero-ETL 統合のフィルター機能を試してみた",
+      "published": "Thu, 28 Mar 24 23:51:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KQ8D2V-2024-03-15-222627?ref=rss",
       "title": "Aurora MySQL 3.06 の ML 機能で Bedrock アクセスを試してみた",
       "published": "Fri, 15 Mar 24 22:26:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5NR7MW-2023-08-15-214227?ref=rss",
       "title": "MySQL HeatWave on AWS を試してみる",
       "published": "Tue, 15 Aug 23 21:42:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5ENYG8-2023-08-06-145801?ref=rss",
-      "title": "Cloudflare Workers から PostgreSQL に接続可能になったので試してみた",
-      "published": "Mon, 07 Aug 23 22:49:00 +0900"
     }
   ]
 }
