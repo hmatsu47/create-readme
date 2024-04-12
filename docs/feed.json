@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KXY8DX-2024-04-12-224947?ref=rss",
+      "title": "BuriKaigi2024 にボランティアスタッフとして参加した話",
+      "published": "Fri, 12 Apr 24 22:49:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KM1D48-2024-03-28-235143?ref=rss",
       "title": "Aurora MySQL と Redshift の zero-ETL 統合のフィルター機能を試してみた",
       "published": "Fri, 29 Mar 24 21:28:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZM1GW9-2023-09-11-004737?ref=rss",
       "title": "MySQL HeatWave on AWS と Aurora _ Redshift zero-ETL 統合（プレビュー）を比べてみる",
       "published": "Sat, 16 Sep 23 00:32:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5NR7MW-2023-08-15-214227?ref=rss",
-      "title": "MySQL HeatWave on AWS を試してみる",
-      "published": "Tue, 15 Aug 23 21:42:00 +0900"
     }
   ]
 }
