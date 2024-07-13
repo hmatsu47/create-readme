@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5N1M1P-2024-07-13-233515?ref=rss",
+      "title": "大人の社会科見学 ～ NTT 技術史料館に行ってみよう！",
+      "published": "Sat, 13 Jul 24 23:35:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/58G4D1-2024-07-01-202130?ref=rss",
       "title": "pgvector 0.6.0 以降の進化についてざっくり取り上げてみる",
       "published": "Mon, 01 Jul 24 20:21:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5ENJW8-2023-10-28-165714?ref=rss",
       "title": "パソコン通信むかしばなし",
       "published": "Tue, 31 Oct 23 23:59:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZJLNVN-2023-10-12-025145?ref=rss",
-      "title": "MySQL HeatWave の制限事項と RDS for MySQL → HeatWave on AWS の DMS レプリケーションを実際に試してみた",
-      "published": "Thu, 12 Oct 23 03:31:00 +0900"
     }
   ]
 }
