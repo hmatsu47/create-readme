@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5J4LWM-2024-08-20-013209?ref=rss",
+      "title": "pgvectorscale と pgai の話（ざっくり）",
+      "published": "Tue, 20 Aug 24 01:36:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZEX41E-2024-07-18-222716?ref=rss",
       "title": "pgvector 0.7.0 の新機能と、これから来る（かもしれない）pgvectorscale",
       "published": "Sun, 28 Jul 24 21:39:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5XYDWR-2023-11-18-230246?ref=rss",
       "title": "人工無能たいたん",
       "published": "Sun, 19 Nov 23 11:03:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/57V66D-2023-11-01-005525?ref=rss",
-      "title": "20 世紀末の地方税理士事務所で IT 導入の 1 → 10 を頑張った話",
-      "published": "Fri, 03 Nov 23 21:58:00 +0900"
     }
   ]
 }
