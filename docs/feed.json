@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5DNER6-2024-08-27-004817?ref=rss",
+      "title": "ある日突然 DB の性能が 1/2（サイズのインスタンス相当）になった話",
+      "published": "Tue, 27 Aug 24 00:48:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5J4LWM-2024-08-20-013209?ref=rss",
       "title": "pgvectorscale と pgai の話（ざっくり）",
       "published": "Fri, 23 Aug 24 22:13:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZGX4PM-2023-12-17-160927?ref=rss",
       "title": "RDS_Aurora 関連アップデート 2023 版",
       "published": "Mon, 18 Dec 23 16:45:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5XYDWR-2023-11-18-230246?ref=rss",
-      "title": "人工無能たいたん",
-      "published": "Sun, 19 Nov 23 11:03:00 +0900"
     }
   ]
 }
