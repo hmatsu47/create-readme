@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/Z9VVNJ-2024-09-08-232241?ref=rss",
+      "title": "大吉祥寺.pm の LT で ChatGPT の力を借りて Next.js App Router ベースの投句箱を作って、 Lambda Web Adapter を使って公開した話",
+      "published": "Sun, 08 Sep 24 23:22:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5DNER6-2024-08-27-004817?ref=rss",
       "title": "ある日突然 DB の性能が 1/2（サイズのインスタンス相当）になった話",
       "published": "Thu, 29 Aug 24 22:54:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/538Q3D-2024-01-05-011625?ref=rss",
       "title": "RDS Data API のその後と Aurora zero-ETL 統合のデータ転送処理の話",
       "published": "Sat, 06 Jan 24 11:58:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZGX4PM-2023-12-17-160927?ref=rss",
-      "title": "RDS_Aurora 関連アップデート 2023 版",
-      "published": "Mon, 18 Dec 23 16:45:00 +0900"
     }
   ]
 }
