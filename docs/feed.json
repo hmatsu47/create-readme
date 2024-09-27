@@ -18,6 +18,11 @@
   ],
   "zenn": [
     {
+      "link": "https://zenn.dev/hmatsu47/articles/heatwave-on-aws-privatelink-failover",
+      "title": "HeatWave on AWS で PrivateLink 接続インバウンドレプリケーション時に Aurora のフェイルオーバーに対応する",
+      "published": "Fri, 27 Sep 2024 03:21:16 GMT"
+    },
+    {
       "link": "https://zenn.dev/hmatsu47/articles/heatwave-on-aws-privatelink",
       "title": "HeatWave on AWS で PrivateLink 接続を使ってインバウンドレプリケーションを試す",
       "published": "Mon, 23 Sep 2024 16:35:35 GMT"
@@ -26,11 +31,6 @@
       "link": "https://zenn.dev/hmatsu47/articles/pgai-tried-a-little",
       "title": "pgai を軽く試してみた",
       "published": "Tue, 13 Aug 2024 03:05:08 GMT"
-    },
-    {
-      "link": "https://zenn.dev/hmatsu47/articles/pgvectorscale",
-      "title": "pgvectorscale を少しだけ試してみた（失敗編）",
-      "published": "Thu, 25 Jul 2024 13:15:18 GMT"
     }
   ],
   "note": [
