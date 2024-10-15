@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/Z6VGX8-2024-10-15-220934?ref=rss",
+      "title": "HeatWave on AWS の PrivateLink インバウンドレプリケーションで Aurora フェイルオーバーに追従する",
+      "published": "Tue, 15 Oct 24 22:09:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/Z9VVNJ-2024-09-08-232241?ref=rss",
       "title": "大吉祥寺.pm の LT で ChatGPT の力を借りて Next.js App Router ベースの投句箱を作って、 Lambda Web Adapter を使って公開した話",
       "published": "Mon, 16 Sep 24 19:43:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KJLP8N-2024-01-25-221651?ref=rss",
       "title": "RDS Data API と Aurora zero-ETL 統合と BuriKaigi2024 の話",
       "published": "Thu, 25 Jan 24 22:30:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/538Q3D-2024-01-05-011625?ref=rss",
-      "title": "RDS Data API のその後と Aurora zero-ETL 統合のデータ転送処理の話",
-      "published": "Sat, 06 Jan 24 11:58:00 +0900"
     }
   ]
 }
