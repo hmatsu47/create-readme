@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZQR9L7-2024-11-15-214523?ref=rss",
+      "title": "Claude 3.5 で Haiku",
+      "published": "Fri, 15 Nov 24 21:45:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/Z6VGX8-2024-10-15-220934?ref=rss",
       "title": "HeatWave on AWS の PrivateLink インバウンドレプリケーションで Aurora フェイルオーバーに追従する",
       "published": "Wed, 16 Oct 24 22:51:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KQ8D2V-2024-03-15-222627?ref=rss",
       "title": "Aurora MySQL 3.06 の ML 機能で Bedrock アクセスを試してみた",
       "published": "Fri, 15 Mar 24 22:26:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/KJLP8N-2024-01-25-221651?ref=rss",
-      "title": "RDS Data API と Aurora zero-ETL 統合と BuriKaigi2024 の話",
-      "published": "Thu, 25 Jan 24 22:30:00 +0900"
     }
   ]
 }
