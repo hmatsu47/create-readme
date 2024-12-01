@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/66dec58086b70514a23c",
+      "title": "blastengine を使って Web アプリケーションにメール通知機能を実装するときに気を付けたこと",
+      "published": "2024-12-01T07:04:38+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/8cdafc093fcda793e863",
       "title": "象使いのための pgvector 入門 (3) 0.6.0 〜 0.7.0 追加機能について",
       "published": "2024-05-19T23:29:15+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/2bdac77abb862e9f0311",
       "title": "Aurora MySQL 3.06 の ML 機能で Bedrock アクセスを試してみた",
       "published": "2024-03-15T03:06:59+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/2b15bc50d56589501c68",
-      "title": "2023 年の PostgreSQL コミュニティとの関わりをふりかえる",
-      "published": "2023-12-25T07:00:55+09:00"
     }
   ],
   "zenn": [
