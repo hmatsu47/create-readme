@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/6cb2b448b6198273b487",
+      "title": "身近なサービスが UCEPROTECT L2 ブロックリストに入ったことでたまたま一部の宛先にメールの送信をブロックされた話",
+      "published": "2024-12-04T07:08:11+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/0656802e0215809b9d14",
       "title": "今年 1 年の個人的な MySQL 関連ネタ登壇を振り返る",
       "published": "2024-12-03T01:12:04+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/e97f4c4aab8bf6f7b7de",
       "title": "2024 年の pgvector アップデートを振り返る（12/1 時点）",
       "published": "2024-12-02T07:04:17+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/66dec58086b70514a23c",
-      "title": "blastengine を使って Web アプリケーションにメール通知機能を実装するときに気を付けたこと",
-      "published": "2024-12-01T07:04:38+09:00"
     }
   ],
   "zenn": [
