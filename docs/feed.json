@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/397aedff77465ed73836",
+      "title": "Aurora DSQL（プレビュー）で楽観的同時実行制御（OCC）を確認してみる",
+      "published": "2024-12-10T00:18:57+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/32f7574930bdae067a86",
       "title": "HeatWave MySQL 9.1.1 の謎に（0.01 歩だけ）迫る",
       "published": "2024-12-09T07:03:31+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/d2af466d970858dad3fa",
       "title": "Aurora DSQL（プレビュー）を少しだけ触ってみた",
       "published": "2024-12-05T23:19:55+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/6cb2b448b6198273b487",
-      "title": "身近なサービスが UCEPROTECT L2 ブロックリストに入ったことでたまたま一部の宛先にメールの送信をブロックされた話",
-      "published": "2024-12-04T07:08:11+09:00"
     }
   ],
   "zenn": [
