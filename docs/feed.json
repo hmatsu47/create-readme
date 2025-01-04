@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZV1JWQ-2025-01-04-151421?ref=rss",
+      "title": "10 年（+1 年）の振り返りと 2025 年にやること",
+      "published": "Sat, 04 Jan 25 15:14:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5MXQRL-2024-12-27-003032?ref=rss",
       "title": "RDS/Aurora アップデート（2024 年版）",
       "published": "Fri, 27 Dec 24 23:59:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5DEPW6-2024-05-04-020050?ref=rss",
       "title": "Cloudflare Workes からMySQL 系 DB への接続事情（2024/4 現在）",
       "published": "Wed, 08 May 24 20:39:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/KXY8DX-2024-04-12-224947?ref=rss",
-      "title": "BuriKaigi2024 にボランティアスタッフとして参加した話",
-      "published": "Fri, 12 Apr 24 22:49:00 +0900"
     }
   ]
 }
