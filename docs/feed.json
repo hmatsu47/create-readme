@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KV1972-2025-01-09-232253?ref=rss",
+      "title": "DynamoDB Global Tables MRSC・pgvector 0.8.0・caching_sha2_password 関連アップデート",
+      "published": "Thu, 09 Jan 25 23:30:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZV1JWQ-2025-01-04-151421?ref=rss",
       "title": "10 年（+1 年）の振り返りと 2025 年の活動予定",
       "published": "Sat, 04 Jan 25 20:13:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/58G4D1-2024-07-01-202130?ref=rss",
       "title": "pgvector 0.6.0 以降の進化についてざっくり取り上げてみる",
       "published": "Mon, 01 Jul 24 20:21:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5DEPW6-2024-05-04-020050?ref=rss",
-      "title": "Cloudflare Workes からMySQL 系 DB への接続事情（2024/4 現在）",
-      "published": "Wed, 08 May 24 20:39:00 +0900"
     }
   ]
 }
