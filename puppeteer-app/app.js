@@ -10,6 +10,7 @@ import puppeteer from 'puppeteer';
       height: 1080,
     },
     headless: 'new',
+    args: ['--no-sandbox'],
   });
   const page = await browser.newPage();
 
