@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/Z3GL92-2025-02-07-144215?ref=rss",
+      "title": "さいきんの MySQL との付き合い方 〜 MySQL 8.0 より後の世界へようこそ 〜",
+      "published": "Fri, 07 Feb 25 18:56:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZP2LY6-2025-01-19-235645?ref=rss",
       "title": "ベクトルストア入門",
       "published": "Sat, 01 Feb 25 13:23:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5J4LWM-2024-08-20-013209?ref=rss",
       "title": "pgvectorscale と pgai の話（ざっくり）",
       "published": "Fri, 23 Aug 24 22:13:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZEX41E-2024-07-18-222716?ref=rss",
-      "title": "pgvector 0.7.0 の新機能と、これから来る（かもしれない）pgvectorscale",
-      "published": "Sun, 28 Jul 24 21:39:00 +0900"
     }
   ]
 }
