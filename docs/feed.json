@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KXENLN-2025-04-15-233750?ref=rss",
+      "title": "HeatWave on AWS のインバウンドレプリケーションで HeatWave エンジン有効時のレプリケーションラグを確認してみた！",
+      "published": "Tue, 15 Apr 25 23:37:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/522E76-cw-db-insights-updates-w20250224?ref=rss",
       "title": "CloudWatch Database Insights 関連アップデート",
       "published": "Fri, 07 Mar 25 18:37:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/Z9VVNJ-2024-09-08-232241?ref=rss",
       "title": "大吉祥寺.pm の LT で ChatGPT の力を借りて Next.js App Router ベースの投句箱を作って、 Lambda Web Adapter を使って公開した話",
       "published": "Mon, 16 Sep 24 19:43:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5DNER6-2024-08-27-004817?ref=rss",
-      "title": "ある日突然 DB の性能が 1/2（サイズのインスタンス相当）になった話",
-      "published": "Thu, 29 Aug 24 22:54:00 +0900"
     }
   ]
 }
