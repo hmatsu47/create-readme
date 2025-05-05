@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KN1PXR-heatwave-on-aws-jawsug-nagoya?ref=rss",
+      "title": "HeatWave on AWS という選択肢を検討してみる",
+      "published": "Mon, 05 May 25 23:41:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KXENLN-inbound-replication-lag?ref=rss",
       "title": "HeatWave on AWS のインバウンドレプリケーションで HeatWave エンジン有効時のレプリケーションラグを確認してみた！",
       "published": "Thu, 17 Apr 25 17:52:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/Z6VGX8-2024-10-15-220934?ref=rss",
       "title": "HeatWave on AWS の PrivateLink インバウンドレプリケーションで Aurora フェイルオーバーに追従する",
       "published": "Wed, 16 Oct 24 22:51:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/Z9VVNJ-2024-09-08-232241?ref=rss",
-      "title": "大吉祥寺.pm の LT で ChatGPT の力を借りて Next.js App Router ベースの投句箱を作って、 Lambda Web Adapter を使って公開した話",
-      "published": "Mon, 16 Sep 24 19:43:00 +0900"
     }
   ]
 }
