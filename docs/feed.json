@@ -60,62 +60,62 @@
   "docswell": [
     {
       "link": "https://www.docswell.com/s/hmatsu47/KN1PXR-heatwave-on-aws-jawsug-nagoya?ref=rss",
-      "title": "HeatWave on AWS という選択肢を検討してみる",
+      "title": "[スライド] HeatWave on AWS という選択肢を検討してみる",
       "published": "Fri, 09 May 25 00:23:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/KXENLN-inbound-replication-lag?ref=rss",
-      "title": "HeatWave on AWS のインバウンドレプリケーションで HeatWave エンジン有効時のレプリケーションラグを確認してみた！",
+      "title": "[スライド] HeatWave on AWS のインバウンドレプリケーションで HeatWave エンジン有効時のレプリケーションラグを確認してみた！",
       "published": "Thu, 17 Apr 25 17:52:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/522E76-cw-db-insights-updates-w20250224?ref=rss",
-      "title": "CloudWatch Database Insights 関連アップデート",
+      "title": "[スライド] CloudWatch Database Insights 関連アップデート",
       "published": "Fri, 07 Mar 25 18:37:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/Z3GL92-2025-02-07-144215?ref=rss",
-      "title": "さいきんの MySQL との付き合い方 〜 MySQL 8.0 より後の世界へようこそ 〜",
+      "title": "[スライド] さいきんの MySQL との付き合い方 〜 MySQL 8.0 より後の世界へようこそ 〜",
       "published": "Sat, 22 Feb 25 00:00:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/ZP2LY6-2025-01-19-235645?ref=rss",
-      "title": "ベクトルストア入門",
+      "title": "[スライド] ベクトルストア入門",
       "published": "Sat, 01 Feb 25 13:23:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/59V9MP-2025-01-17-001214?ref=rss",
-      "title": "Aurora DSQL について",
+      "title": "[スライド] Aurora DSQL について",
       "published": "Thu, 23 Jan 25 23:13:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/KV1972-2025-01-09-232253?ref=rss",
-      "title": "DynamoDB Global Tables MRSC・pgvector 0.8.0・caching_sha2_password 関連アップデート",
+      "title": "[スライド] DynamoDB Global Tables MRSC・pgvector 0.8.0・caching_sha2_password 関連アップデート",
       "published": "Sat, 11 Jan 25 11:18:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/ZV1JWQ-2025-01-04-151421?ref=rss",
-      "title": "10 年（+1 年）の振り返りと 2025 年の活動予定",
+      "title": "[スライド] 10 年（+1 年）の振り返りと 2025 年の活動予定",
       "published": "Sat, 04 Jan 25 20:13:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/5MXQRL-2024-12-27-003032?ref=rss",
-      "title": "RDS/Aurora アップデート（2024 年版）",
+      "title": "[スライド] RDS/Aurora アップデート（2024 年版）",
       "published": "Fri, 27 Dec 24 23:59:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/53GJ4P-2024-12-25-014945?ref=rss",
-      "title": "Aurora DSQL と楽観的同時実行制御（OCC）",
+      "title": "[スライド] Aurora DSQL と楽観的同時実行制御（OCC）",
       "published": "Thu, 26 Dec 24 16:14:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/ZQR9L7-2024-11-15-214523?ref=rss",
-      "title": "Claude 3.5 で Haiku",
+      "title": "[スライド] Claude 3.5 で Haiku",
       "published": "Fri, 15 Nov 24 21:45:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/Z6VGX8-2024-10-15-220934?ref=rss",
-      "title": "HeatWave on AWS の PrivateLink インバウンドレプリケーションで Aurora フェイルオーバーに追従する",
+      "title": "[スライド] HeatWave on AWS の PrivateLink インバウンドレプリケーションで Aurora フェイルオーバーに追従する",
       "published": "Wed, 16 Oct 24 22:51:00 +0900"
     }
   ]
