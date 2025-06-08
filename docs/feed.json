@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZN1D9E-pgvector-graph-index-introduction?ref=rss",
+      "title": "[スライド] PostgreSQL+pgvector で LlamaIndex の Property Graph Index を試す（序章）",
+      "published": "Mon, 09 Jun 25 00:44:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KN1PXR-heatwave-on-aws-jawsug-nagoya?ref=rss",
       "title": "[スライド] HeatWave on AWS という選択肢を検討してみる",
       "published": "Fri, 09 May 25 00:23:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZQR9L7-2024-11-15-214523?ref=rss",
       "title": "[スライド] Claude 3.5 で Haiku",
       "published": "Fri, 15 Nov 24 21:45:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/Z6VGX8-2024-10-15-220934?ref=rss",
-      "title": "[スライド] HeatWave on AWS の PrivateLink インバウンドレプリケーションで Aurora フェイルオーバーに追従する",
-      "published": "Wed, 16 Oct 24 22:51:00 +0900"
     }
   ]
 }
