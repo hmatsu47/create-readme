@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZQ137V-jawsug-aiml-20250623-pg-index?ref=rss",
+      "title": "[スライド] LlamaIndex の Property Graph Index を PostgreSQL 上に構築してデータ構造を見てみる",
+      "published": "Sun, 22 Jun 25 22:12:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZN1D9E-pgvector-graph-index-introduction?ref=rss",
       "title": "[スライド] PostgreSQL+pgvector で LlamaIndex の Property Graph Index を試す（序章）",
       "published": "Sat, 21 Jun 25 21:28:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/53GJ4P-2024-12-25-014945?ref=rss",
       "title": "[スライド] Aurora DSQL と楽観的同時実行制御（OCC）",
       "published": "Thu, 26 Dec 24 16:14:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZQR9L7-2024-11-15-214523?ref=rss",
-      "title": "[スライド] Claude 3.5 で Haiku",
-      "published": "Fri, 15 Nov 24 21:45:00 +0900"
     }
   ]
 }
