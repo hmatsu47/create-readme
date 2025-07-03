@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZJ977V-dsql-game-jawsmt?ref=rss",
+      "title": "[スライド] ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）",
+      "published": "Thu, 03 Jul 25 23:05:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZXPPR4-llamaindex-postgresql-pgvectorscale?ref=rss",
       "title": "[スライド] PostgreSQL+pgvector で GraphRAG に挑戦 &amp; pgvectorscale 0.7.x アップデート",
       "published": "Tue, 24 Jun 25 23:02:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZV1JWQ-2025-01-04-151421?ref=rss",
       "title": "[スライド] 10 年（+1 年）の振り返りと 2025 年の活動予定",
       "published": "Sat, 04 Jan 25 20:13:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5MXQRL-2024-12-27-003032?ref=rss",
-      "title": "[スライド] RDS/Aurora アップデート（2024 年版）",
-      "published": "Fri, 27 Dec 24 23:59:00 +0900"
     }
   ]
 }
