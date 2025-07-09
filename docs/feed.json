@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/75eee0b21e3be5b80061",
+      "title": "「ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）」の結果ログから Aurora DSQL の動作を考察する",
+      "published": "2025-07-09T18:57:53+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/302e6442e783c9446497",
       "title": "HeatWave MySQL が 9.0 で Auto Scheduling を実装したことでクエリの実行時間がかえって延びた件",
       "published": "2025-04-23T21:33:32+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/397aedff77465ed73836",
       "title": "Aurora DSQL（プレビュー）で楽観的同時実行制御（OCC）を確認してみる",
       "published": "2024-12-10T00:18:57+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/32f7574930bdae067a86",
-      "title": "HeatWave MySQL 9.1.1 の謎に（0.01 歩だけ）迫る",
-      "published": "2024-12-09T07:03:31+09:00"
     }
   ],
   "zenn": [
@@ -61,7 +61,7 @@
     {
       "link": "https://www.docswell.com/s/hmatsu47/ZJ977V-dsql-game-jawsmt?ref=rss",
       "title": "[スライド] ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）",
-      "published": "Sat, 05 Jul 25 14:09:00 +0900"
+      "published": "Sat, 05 Jul 25 23:59:00 +0900"
     },
     {
       "link": "https://www.docswell.com/s/hmatsu47/ZXPPR4-llamaindex-postgresql-pgvectorscale?ref=rss",
