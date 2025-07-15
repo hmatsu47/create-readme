@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/63116478a22e3b3b78bc",
+      "title": "PostgreSQL+pgvector で LlamaIndex の Property Graph Index を試す",
+      "published": "2025-07-15T22:50:58+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/75eee0b21e3be5b80061",
       "title": "「ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）」の結果ログから Aurora DSQL の動作を考察する",
       "published": "2025-07-09T18:57:53+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/302e6442e783c9446497",
       "title": "HeatWave MySQL が 9.0 で Auto Scheduling を実装したことでクエリの実行時間がかえって延びた件",
       "published": "2025-04-23T21:33:32+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/397aedff77465ed73836",
-      "title": "Aurora DSQL（プレビュー）で楽観的同時実行制御（OCC）を確認してみる",
-      "published": "2024-12-10T00:18:57+09:00"
     }
   ],
   "zenn": [
