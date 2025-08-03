@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KLVVJG-dsql-occ-log-20250804?ref=rss",
+      "title": "[スライド] 「ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）」の結果ログから Aurora DSQL の動作を考察する",
+      "published": "Sun, 03 Aug 25 13:46:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZJ977V-dsql-game-jawsmt?ref=rss",
       "title": "[スライド] ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）",
       "published": "Sat, 05 Jul 25 23:59:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KV1972-2025-01-09-232253?ref=rss",
       "title": "[スライド] DynamoDB Global Tables MRSC・pgvector 0.8.0・caching_sha2_password 関連アップデート",
       "published": "Sat, 11 Jan 25 11:18:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZV1JWQ-2025-01-04-151421?ref=rss",
-      "title": "[スライド] 10 年（+1 年）の振り返りと 2025 年の活動予定",
-      "published": "Sat, 04 Jan 25 20:13:00 +0900"
     }
   ]
 }
