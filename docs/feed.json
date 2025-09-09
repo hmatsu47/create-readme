@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KVM2R4-postgresql-pgvector-graphrag?ref=rss",
+      "title": "[スライド] PostgreSQL でもできる！GraphRAG",
+      "published": "Tue, 09 Sep 25 23:49:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KQXN6R-aurora-dsql-transaction-20250821?ref=rss",
       "title": "[スライド] Aurora DSQL のトランザクション（スナップショット分離と OCC）",
       "published": "Thu, 21 Aug 25 12:47:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/Z3GL92-2025-02-07-144215?ref=rss",
       "title": "[スライド] さいきんの MySQL との付き合い方 〜 MySQL 8.0 より後の世界へようこそ 〜",
       "published": "Sat, 22 Feb 25 00:00:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZP2LY6-2025-01-19-235645?ref=rss",
-      "title": "[スライド] ベクトルストア入門",
-      "published": "Sat, 01 Feb 25 13:23:00 +0900"
     }
   ]
 }
