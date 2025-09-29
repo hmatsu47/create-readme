@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZJQYXX-aurora-occ-jaws-festa-20251011?ref=rss",
+      "title": "[スライド] 攻略！Aurora DSQL の OCC（楽観的同時実行制御）",
+      "published": "Mon, 29 Sep 25 13:56:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KVM2R4-postgresql-pgvector-graphrag?ref=rss",
       "title": "[スライド] PostgreSQL でもできる！GraphRAG",
       "published": "Thu, 11 Sep 25 16:40:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/522E76-cw-db-insights-updates-w20250224?ref=rss",
       "title": "[スライド] CloudWatch Database Insights 関連アップデート",
       "published": "Fri, 07 Mar 25 18:37:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/Z3GL92-2025-02-07-144215?ref=rss",
-      "title": "[スライド] さいきんの MySQL との付き合い方 〜 MySQL 8.0 より後の世界へようこそ 〜",
-      "published": "Sat, 22 Feb 25 00:00:00 +0900"
     }
   ]
 }
