@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/52Q326-after-festa-2025-10-15?ref=rss",
+      "title": "[スライド] 今年の FESTA で初当日スタッフ＋登壇してきました",
+      "published": "Wed, 15 Oct 25 12:05:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZJQYXX-aurora-occ-jaws-festa-20251011?ref=rss",
       "title": "[スライド] 攻略！Aurora DSQL の OCC（楽観的同時実行制御）",
       "published": "Sat, 11 Oct 25 14:22:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KXENLN-inbound-replication-lag?ref=rss",
       "title": "[スライド] HeatWave on AWS のインバウンドレプリケーションで HeatWave エンジン有効時のレプリケーションラグを確認してみた！",
       "published": "Thu, 17 Apr 25 17:52:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/522E76-cw-db-insights-updates-w20250224?ref=rss",
-      "title": "[スライド] CloudWatch Database Insights 関連アップデート",
-      "published": "Fri, 07 Mar 25 18:37:00 +0900"
     }
   ]
 }
