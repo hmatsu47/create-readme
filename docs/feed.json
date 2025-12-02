@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/1c9802c40c4d58a9a6c7",
+      "title": "「JAWS-UG 横浜 #79 AWS re:Invent 2024 re:Cap Database」（1/11）で話した内容の振り返り",
+      "published": "2025-12-02T07:05:12+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/8a37a564be3f66ed6f72",
       "title": "「10 + 1 LT 初め会」（1/4）で話した内容の（12/1 時点での）答え合わせ",
       "published": "2025-12-01T07:06:03+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/63116478a22e3b3b78bc",
       "title": "PostgreSQL+pgvector で LlamaIndex の Property Graph Index を試す",
       "published": "2025-07-15T22:50:58+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/75eee0b21e3be5b80061",
-      "title": "「ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）」の結果ログから Aurora DSQL の動作を考察する",
-      "published": "2025-07-09T18:57:53+09:00"
     }
   ],
   "zenn": [
