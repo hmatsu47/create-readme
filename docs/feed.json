@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/e561313f3d8b1b34136a",
+      "title": "「BuriKaigi 2025」（2/1）初登壇と 3 回目の当日スタッフ振り返り",
+      "published": "2025-12-04T07:04:07+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/74cb09fc616e18971872",
       "title": "「JAWS-UG 浜松 x Media-JAWS 合同 AWS 勉強会 202501」（1/23）で今度は Aurora DSQL の話をした",
       "published": "2025-12-03T07:04:55+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/1c9802c40c4d58a9a6c7",
       "title": "「JAWS-UG 横浜 #79 AWS re:Invent 2024 re:Cap Database」（1/11）で話した内容の振り返り",
       "published": "2025-12-02T07:05:12+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/8a37a564be3f66ed6f72",
-      "title": "「10 + 1 LT 初め会」（1/4）で話した内容の（12/1 時点での）答え合わせ",
-      "published": "2025-12-01T07:06:03+09:00"
     }
   ],
   "zenn": [
