@@ -1,19 +1,19 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/3263183210260eb03201",
+      "title": "「JAWS-UG 名古屋 5 月会①」（5/9）で HeatWave on AWS を紹介",
+      "published": "2025-12-08T07:04:48+09:00"
+    },
+    {
+      "link": "https://qiita.com/hmatsu47/items/ee3d437fe42c7042a247",
+      "title": "今年勉強会などで Aurora DSQL に関して話したことの振り返り",
+      "published": "2025-12-08T07:03:34+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/e9f66cb5f73fe4abf371",
       "title": "「祝 2 周年／HeatWavejp Meetup #13」（4/17）リモート登壇振り返り",
       "published": "2025-12-07T07:04:47+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/117a8c657691e53d8337",
-      "title": "「#68 JAWS-UG 主催 週刊 AWS キャッチアップ（2025/2/24 週）」（3/7）で久々の LT 登壇",
-      "published": "2025-12-06T07:04:40+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/581f92c2f0fedca94e01",
-      "title": "「PHP カンファレンス名古屋 2025」（2/22）で MySQL についての話＆当日スタッフ参加の振り返り",
-      "published": "2025-12-05T07:04:12+09:00"
     }
   ],
   "zenn": [
