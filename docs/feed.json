@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/ede05f4e8acea3377ea9",
+      "title": "「第 53 回 PostgreSQL アンカンファレンス@オンライン」（6/24）で深夜？の登壇振り返り",
+      "published": "2025-12-12T07:04:54+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/4b7114798a9de4111b70",
       "title": "今年勉強会などで MySQL / HeatWave に関して話したことの振り返り＋α",
       "published": "2025-12-11T07:09:53+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/0366b30a5a0fa6ba6053",
       "title": "「JAWS-UG AI/ML #27」（6/23）の登壇枠が空いていたので急遽参戦",
       "published": "2025-12-11T07:04:35+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/f0f646caae11c5065425",
-      "title": "「俺の勉強会 #2」（6/9）で約束どおり LT 登壇したことの振り返り",
-      "published": "2025-12-10T07:04:53+09:00"
     }
   ],
   "zenn": [
