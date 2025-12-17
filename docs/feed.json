@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/1a2c9138daad8b6f7ccd",
+      "title": "「大吉祥寺.pm 2025」（前夜祭含む 9/5-6）当日スタッフ参加振り返り",
+      "published": "2025-12-18T00:04:19+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/8e74146c3499a47812a5",
       "title": "「クラウド LT 大会 vol.14 フリーテーマ！」（8/21）で JAWS FESTA 2025 の予定ネタの一部をリハーサル登壇",
       "published": "2025-12-17T07:04:22+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/50fc6470d07f5477c207",
       "title": "blastengine を本番サービスに組み込んで運用を始めてから困ったこと",
       "published": "2025-12-17T00:33:20+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/44a0b1d15371196db60f",
-      "title": "「【オンライン】佐賀の中心でAWSを叫ぶ」（8/11）で飛び入り資料なし（Qiita 記事解説）登壇",
-      "published": "2025-12-16T07:03:35+09:00"
     }
   ],
   "zenn": [
@@ -35,14 +35,14 @@
   ],
   "note": [
     {
+      "link": "https://note.com/hmatsu47/n/nece61969396d",
+      "title": "「吉祥寺.pm25【オンライン】」で初トーク（投句？）したときの思い出話",
+      "published": "Thu, 18 Dec 2025 00:07:48 +0900"
+    },
+    {
       "link": "https://note.com/hmatsu47/n/n1ad83cc1e4c5",
       "title": "PHP カンファレンス名古屋 2025 開催カウントダウン！名古屋近郊スポット紹介 [9] その他のスポット（開催まであと 1 日）",
       "published": "Fri, 21 Feb 2025 00:20:03 +0900"
-    },
-    {
-      "link": "https://note.com/hmatsu47/n/nf8a8d632505b",
-      "title": "PHP カンファレンス名古屋 2025 開催カウントダウン！名古屋近郊スポット紹介 [8] 城と歴史スポット（開催まであと 2 日）",
-      "published": "Thu, 20 Feb 2025 00:04:28 +0900"
     }
   ],
   "hatena": [
