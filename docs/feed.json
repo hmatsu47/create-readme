@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/K44XQN-2025-12-19-121521?ref=rss",
+      "title": "[スライド] 今年の MySQL/HeatWave ネタ登壇振り返り",
+      "published": "Fri, 19 Dec 25 12:15:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5VMDLV-ore-bounen-2025?ref=rss",
       "title": "[スライド] 今年の DB ネタ登壇振り返り",
       "published": "Wed, 17 Dec 25 19:55:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZXPPR4-llamaindex-postgresql-pgvectorscale?ref=rss",
       "title": "[スライド] PostgreSQL+pgvector で GraphRAG に挑戦 &amp; pgvectorscale 0.7.x アップデート",
       "published": "Tue, 24 Jun 25 23:02:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZQ137V-jawsug-aiml-20250623-pg-index?ref=rss",
-      "title": "[スライド] LlamaIndex の Property Graph Index を PostgreSQL 上に構築してデータ構造を見てみる",
-      "published": "Mon, 23 Jun 25 23:59:00 +0900"
     }
   ]
 }
