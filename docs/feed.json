@@ -1,6 +1,11 @@
 {
   "qiita": [
     {
+      "link": "https://qiita.com/hmatsu47/items/3e9592bc86a8dd84741b",
+      "title": "「第 35 回 中国地方 DB 勉強会 in 岡山」（9/13）ショートセッションでグダグダになった件",
+      "published": "2025-12-19T07:04:10+09:00"
+    },
+    {
       "link": "https://qiita.com/hmatsu47/items/1a2c9138daad8b6f7ccd",
       "title": "「大吉祥寺.pm 2025」（前夜祭含む 9/5-6）当日スタッフ参加振り返り",
       "published": "2025-12-18T00:04:19+09:00"
@@ -9,11 +14,6 @@
       "link": "https://qiita.com/hmatsu47/items/8e74146c3499a47812a5",
       "title": "「クラウド LT 大会 vol.14 フリーテーマ！」（8/21）で JAWS FESTA 2025 の予定ネタの一部をリハーサル登壇",
       "published": "2025-12-17T07:04:22+09:00"
-    },
-    {
-      "link": "https://qiita.com/hmatsu47/items/50fc6470d07f5477c207",
-      "title": "blastengine を本番サービスに組み込んで運用を始めてから困ったこと",
-      "published": "2025-12-17T00:33:20+09:00"
     }
   ],
   "zenn": [
