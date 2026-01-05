@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5G237N-burikaigi2026-study-ipv6-aws?ref=rss",
+      "title": "[スライド] AWS で試して学ぶ IPv6",
+      "published": "Mon, 05 Jan 26 13:59:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/K44XQN-2025-12-19-121521?ref=rss",
       "title": "[スライド] 今年の MySQL/HeatWave ネタ登壇振り返り",
       "published": "Fri, 19 Dec 25 23:59:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZJ977V-dsql-game-jawsmt?ref=rss",
       "title": "[スライド] ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）",
       "published": "Sat, 05 Jul 25 23:59:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZXPPR4-llamaindex-postgresql-pgvectorscale?ref=rss",
-      "title": "[スライド] PostgreSQL+pgvector で GraphRAG に挑戦 &amp; pgvectorscale 0.7.x アップデート",
-      "published": "Tue, 24 Jun 25 23:02:00 +0900"
     }
   ]
 }
