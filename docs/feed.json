@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/5YV2J3-yokohama-fiber-ipv6?ref=rss",
+      "title": "[スライド] 光ファイバーと IPv6 絡みの話",
+      "published": "Sat, 24 Jan 26 18:54:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5G237N-burikaigi2026-study-ipv6-aws?ref=rss",
       "title": "[スライド] AWS で試して学ぶ IPv6",
       "published": "Fri, 09 Jan 26 23:59:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KLVVJG-dsql-occ-log-20250804?ref=rss",
       "title": "[スライド] 「ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）」の結果ログから Aurora DSQL の動作を考察する",
       "published": "Sun, 03 Aug 25 13:46:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/ZJ977V-dsql-game-jawsmt?ref=rss",
-      "title": "[スライド] ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）",
-      "published": "Sat, 05 Jul 25 23:59:00 +0900"
     }
   ]
 }
