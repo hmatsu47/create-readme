@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZJQ7DV-tsukuba-ipv6?ref=rss",
+      "title": "[スライド] IPv6 VPC の実装パターンをいくつか",
+      "published": "Wed, 28 Jan 26 11:05:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/5YV2J3-yokohama-fiber-ipv6?ref=rss",
       "title": "[スライド] 光ファイバーと IPv6 絡みの話",
       "published": "Sat, 24 Jan 26 23:59:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KLVN3L-amazon-q-developer?ref=rss",
       "title": "[スライド] いろんなところに居る Amazon Q（Developer）を使い分けてみた",
       "published": "Thu, 07 Aug 25 23:59:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/KLVVJG-dsql-occ-log-20250804?ref=rss",
-      "title": "[スライド] 「ゲームで体感！Aurora DSQL の OCC（楽観的同時実行制御）」の結果ログから Aurora DSQL の動作を考察する",
-      "published": "Sun, 03 Aug 25 13:46:00 +0900"
     }
   ]
 }
