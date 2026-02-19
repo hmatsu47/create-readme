@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/Z2Q9WV-kichijojipm39-lt?ref=rss",
+      "title": "[スライド] 低いほうのレイヤを見てみる話",
+      "published": "Thu, 19 Feb 26 20:51:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZJQ7DV-tsukuba-ipv6?ref=rss",
       "title": "[スライド] IPv6 VPC の実装パターンをいくつか",
       "published": "Sun, 01 Feb 26 00:49:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KQXN6R-aurora-dsql-transaction-20250821?ref=rss",
       "title": "[スライド] Aurora DSQL のトランザクション（スナップショット分離と OCC）",
       "published": "Thu, 21 Aug 25 23:59:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/KLVN3L-amazon-q-developer?ref=rss",
-      "title": "[スライド] いろんなところに居る Amazon Q（Developer）を使い分けてみた",
-      "published": "Thu, 07 Aug 25 23:59:00 +0900"
     }
   ]
 }
