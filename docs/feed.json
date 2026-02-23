@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KG29V9-ore-5-fiber?ref=rss",
+      "title": "[スライド] さいきんの光ファイバーの話",
+      "published": "Mon, 23 Feb 26 23:57:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/Z2Q9WV-kichijojipm39-lt?ref=rss",
       "title": "[スライド] 低いほうのレイヤを見てみる話",
       "published": "Thu, 19 Feb 26 22:08:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/KVM2R4-postgresql-pgvector-graphrag?ref=rss",
       "title": "[スライド] PostgreSQL でもできる！GraphRAG",
       "published": "Thu, 11 Sep 25 16:40:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/KQXN6R-aurora-dsql-transaction-20250821?ref=rss",
-      "title": "[スライド] Aurora DSQL のトランザクション（スナップショット分離と OCC）",
-      "published": "Thu, 21 Aug 25 23:59:00 +0900"
     }
   ]
 }
