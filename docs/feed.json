@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/KJWLGE-hamamatsu-ipv6?ref=rss",
+      "title": "[スライド] IPv6 に関する話",
+      "published": "Tue, 17 Mar 26 23:30:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KG29V9-ore-5-fiber?ref=rss",
       "title": "[スライド] さいきんの光ファイバーの話",
       "published": "Tue, 24 Feb 26 17:39:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZJQYXX-aurora-occ-jaws-festa-20251011?ref=rss",
       "title": "[スライド] 攻略！Aurora DSQL の OCC（楽観的同時実行制御）",
       "published": "Sat, 11 Oct 25 14:22:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/KVM2R4-postgresql-pgvector-graphrag?ref=rss",
-      "title": "[スライド] PostgreSQL でもできる！GraphRAG",
-      "published": "Thu, 11 Sep 25 16:40:00 +0900"
     }
   ]
 }
