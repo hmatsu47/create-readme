@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZN79ND-orestudy-nagoya-castle-2?ref=rss",
+      "title": "[スライド] 続・名古屋城とデータセンター",
+      "published": "Mon, 15 Jun 26 18:04:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/KGNG9L-2026-05-19-133105?ref=rss",
       "title": "[スライド] 【再演】IPv6 VPC の実装パターンをいくつか",
       "published": "Thu, 21 May 26 12:00:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/52QVP9-bounen-kaigi-2025?ref=rss",
       "title": "[スライド] YAPC::Fukuoka 2025 現地ハイブリッド参加の旅",
       "published": "Mon, 15 Dec 25 01:07:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/Z371EP-rds_aurora_update2025?ref=rss",
-      "title": "[スライド] RDS/Aurora アップデート 2025",
-      "published": "Mon, 08 Dec 25 15:45:00 +0900"
     }
   ]
 }
