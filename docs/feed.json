@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/K8NNJ1-vpc-routing-ipv4_v6_jawsmt?ref=rss",
+      "title": "[スライド] ゲームで挑戦！VPC の気持ちになって IPv4_v6 パケットをルーティングしよう！",
+      "published": "Sat, 04 Jul 26 13:22:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/ZN79ND-orestudy-nagoya-castle-2?ref=rss",
       "title": "[スライド] 続・名古屋城とデータセンター",
       "published": "Mon, 15 Jun 26 18:04:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/5VMDLV-ore-bounen-2025?ref=rss",
       "title": "[スライド] 今年の DB ネタ登壇振り返り",
       "published": "Wed, 17 Dec 25 23:59:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/52QVP9-bounen-kaigi-2025?ref=rss",
-      "title": "[スライド] YAPC::Fukuoka 2025 現地ハイブリッド参加の旅",
-      "published": "Mon, 15 Dec 25 01:07:00 +0900"
     }
   ]
 }
