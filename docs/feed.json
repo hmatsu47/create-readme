@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/ZN7NGL-kiro-aidlc-v2-ipv6vpc-game?ref=rss",
+      "title": "[スライド] JAWS ミート 2026 の「出し物」のゲームを Kiro と AI-DLC v2 で作った話",
+      "published": "Thu, 13 Aug 26 17:57:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/K8NNJ1-vpc-routing-ipv4_v6_jawsmt?ref=rss",
       "title": "[スライド] ゲームで挑戦！VPC の気持ちになって IPv4/v6 パケットをルーティングしよう！",
       "published": "Sat, 04 Jul 26 13:22:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/K44XQN-2025-12-19-121521?ref=rss",
       "title": "[スライド] 今年の MySQL/HeatWave ネタ登壇振り返り",
       "published": "Fri, 19 Dec 25 23:59:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5VMDLV-ore-bounen-2025?ref=rss",
-      "title": "[スライド] 今年の DB ネタ登壇振り返り",
-      "published": "Wed, 17 Dec 25 23:59:00 +0900"
     }
   ]
 }
