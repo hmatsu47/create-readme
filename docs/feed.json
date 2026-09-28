@@ -59,6 +59,11 @@
   ],
   "docswell": [
     {
+      "link": "https://www.docswell.com/s/hmatsu47/K27GM7-orestudy-doujin?ref=rss",
+      "title": "[スライド] カンファレンス参加のついでに旅に出よう→カンファレンス登壇のために旅に出よう（？）",
+      "published": "Mon, 28 Sep 26 18:50:00 +0900"
+    },
+    {
       "link": "https://www.docswell.com/s/hmatsu47/527YWM-managed-grafana-unknown-charge?ref=rss",
       "title": "[スライド] Managed Grafana を Kiro CLI+AI-DLC v2（α）に作ってもらったら謎課金が積み上がった件",
       "published": "Wed, 16 Sep 26 12:26:00 +0900"
@@ -112,11 +117,6 @@
       "link": "https://www.docswell.com/s/hmatsu47/ZJQ7DV-tsukuba-ipv6?ref=rss",
       "title": "[スライド] IPv6 VPC の実装パターンをいくつか",
       "published": "Sun, 01 Feb 26 00:49:00 +0900"
-    },
-    {
-      "link": "https://www.docswell.com/s/hmatsu47/5YV2J3-yokohama-fiber-ipv6?ref=rss",
-      "title": "[スライド] 光ファイバーと IPv6 絡みの話",
-      "published": "Sat, 24 Jan 26 23:59:00 +0900"
     }
   ]
 }
